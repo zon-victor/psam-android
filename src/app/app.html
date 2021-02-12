@@ -1,0 +1,28 @@
+<ion-menu side="left" [content]="content">
+    <ion-header id="menuHeader" color="bridge" no-border>
+    </ion-header>
+  
+    <ion-content class="menu" color="bridge">
+      <ion-item-group>
+          <ion-item-divider class="menu-group" color="light">
+              Knowledge & Advice
+          </ion-item-divider>
+          <button ion-item full menuToggle *ngFor="let item of adviceMenu" (click)="openPage(item)">
+                <ion-icon name="{{item.icon}}" item-left color="{{item.color}}"></ion-icon>
+                {{item.title}}
+          </button>
+      </ion-item-group>
+      <ion-item-group>
+          <ion-item-divider class="menu-group" color="light">
+              Me, Sharing & More
+          </ion-item-divider>
+          <button ion-item full menuToggle *ngFor="let item of otherMenu" class="menu-link"  (click)="openPage(item)">
+                <ion-icon name="{{item.icon}}" item-left color="{{item.color}}"></ion-icon>
+                {{item.title}}
+          </button>
+      </ion-item-group>
+    </ion-content>
+  
+  </ion-menu>
+
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>

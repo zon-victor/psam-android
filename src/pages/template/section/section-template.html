@@ -1,0 +1,64 @@
+<ion-header>
+    <ion-navbar style="background-color: transparent">
+        <button ion-button clear (click)="closeSection()" color="primary" class="section-button">
+            <ion-icon name="arrow-back"></ion-icon>
+        </button>
+        <ion-title class="section-title" color="primary" text-wrap>{{section_heading}}</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <div id="all">
+        <ion-card *ngFor="let subsection of subsections">
+            <!-- show subsection heading if it exists -->
+            <ng-template [ngIf]="subsection.subsection_heading.length > 0">
+                <ion-card-header text-wrap class="subsection_heading">
+                    {{subsection.subsection_heading}}
+                </ion-card-header>
+                <div class="subsection_heading_line"></div>
+            </ng-template>
+            <ion-card-content>
+                <div class="subsection_content" *ngFor="let content of subsection.contents">
+                    <!-- show content header if it exist -->
+                    <ng-template [ngIf]="content.content_heading.length > 0">
+                        <div class="content_heading">{{content.content_heading}}</div><br>
+                    </ng-template>
+                    <!-- show data header if it exist -->
+                    <ng-template [ngIf]="content.data_heading.length > 0">
+                        <div class="data_heading">{{content.data_heading}}</div>
+                    </ng-template>
+                    <!-- render as paragraph -->
+                    <ng-template [ngIf]="content.tag == 'p'">
+                        <p *ngFor="let para of content.data">{{para}}</p><br>
+                    </ng-template>
+                    <!-- render as unordered list -->
+                    <ng-template [ngIf]="content.tag == 'ul'">
+                    <ul class="list">
+                        <li *ngFor="let list of content.data">{{list}}</li>
+                    </ul>
+                    </ng-template>                    
+                    <!-- handle deep-linked content -->
+                    <ng-template [ngIf]="content.tag == 'multi'">
+                        <!-- data nested deep -->
+                        <div class="nested_data" *ngFor="let data of content.data">
+                             <!-- show data header if it exist -->
+                            <ng-template [ngIf]="data.heading.length > 0">
+                                <div class="data_heading">{{data.heading}}</div>
+                                </ng-template>
+                                <!-- render as paragraph -->
+                                <ng-template [ngIf]="data.tag == 'p'">
+                                    <p *ngFor="let para of data.data">{{para}}</p><br>
+                                </ng-template>
+                                <!-- render as unordered list -->
+                                <ng-template [ngIf]="data.tag == 'ul'">
+                                <ul class="list">
+                                    <li *ngFor="let list of data.data">{{list}}</li>
+                                </ul>
+                            </ng-template>     
+                        </div>
+                    </ng-template>                    
+                </div>
+            </ion-card-content>
+        </ion-card>
+    </div>
+</ion-content>

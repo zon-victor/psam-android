@@ -1,0 +1,138 @@
+<ion-header>
+
+  <ion-toolbar color="chrome">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+
+    <ion-title>MY PROFILE</ion-title>
+  </ion-toolbar>
+  <ion-item no-lines style="height:32px;">
+      <ion-buttons end>
+          <button ion-button color="#ffffff" item-end icon-right *ngIf="userProfile; else loggedOut" (click)="logoutUser()">
+              Logout&nbsp;
+              <ion-icon name="log-out"></ion-icon>
+          </button>
+          <ng-template #loggedOut>
+              <button ion-button color="blues" item-end icon-left (click)="loginUser()">
+                <ion-icon name="log-in"></ion-icon>&nbsp;Login
+              </button>
+          </ng-template>
+      </ion-buttons>
+  </ion-item>
+</ion-header>
+
+<ion-content padding>
+
+<ion-card *ngIf="userProfile">
+    <ion-card-header>
+      Welcome {{ name }}!
+    </ion-card-header>
+    <ion-card-content>
+      <ion-item *ngIf="email">
+        Your Email: {{email}} <div *ngIf="!emailVerified">(Unverified)</div>
+      </ion-item>
+      <ion-item *ngIf="cell">
+        Your Phone Number: {{cell}}
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
+
+<div *ngIf="!userProfile" center padding class="w100">
+  <div id="accHeader">YOU MUST HAVE A PROFILE TO USE REACHOUT</div>
+  <button ion-button block color="pur" (click)="toggleSignupForm()">
+    <ion-row>
+      <ion-col align-self-center>CREATE A NEW ACCOUNT</ion-col>
+      <!-- <ion-col align-self-end>
+        <ion-icon *ngIf="showSignupForm" name="arrow-dropup" color="primary"></ion-icon>
+        <ion-icon *ngIf="!showSignupForm" name="arrow-dropdown" color="white"></ion-icon>
+      </ion-col> -->
+    </ion-row>
+  </button>
+  <ion-card *ngIf="showSignupForm">
+    <ion-card-content>
+
+      <form [formGroup]="signupForm" (submit)="signupUser()" novalidate>
+        <ion-item>
+            <ion-label floating>Full Name</ion-label>
+            <ion-input type="text" formControlName="name" [class.invalid]="!signupForm.controls.name.valid && blur"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label floating>Email</ion-label>
+            <ion-input type="email" formControlName="email" [class.invalid]="!signupForm.controls.email.valid && blur"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label floating>Password</ion-label>
+            <ion-input type="password" formControlName="password"  [class.invalid]="!signupForm.controls.password.valid && blur"></ion-input>
+        </ion-item>
+        <ion-item>
+                <button ion-button block color="blues" type="submit" [disabled]="!signupForm.valid">SIGN UP</button>
+        </ion-item>
+      </form>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-row>
+    <ion-col><hr color="primary"></ion-col>
+    <ion-col class="txtac" style="font-weight:bold;">OR</ion-col>
+    <ion-col><hr color="primary"></ion-col>
+  </ion-row>
+
+  <button ion-button block color="bridge" (click)="toggleLoginForm()">
+    LOGIN WITH YOUR ACCOUNT
+  </button>
+  <ion-card *ngIf="showLoginForm">
+    <ion-card-content>
+      <form [formGroup]="loginForm" (submit)="loginUser()" novalidate>
+            
+        <ion-item>
+            <ion-label floating>Email</ion-label>
+            <ion-input type="email" formControlName="email" [class.invalid]="!loginForm.controls.email.valid && blur"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label floating>Password</ion-label>
+            <ion-input type="password" formControlName="password" [class.invalid]="!loginForm.controls.password.valid && blur"></ion-input>
+        </ion-item>
+        <ion-item>
+                <button ion-button block type="submit" [disabled]="!loginForm.valid" color="blues">LOGIN</button>
+        </ion-item>
+
+      </form>
+    </ion-card-content>
+  </ion-card>
+
+  <button ion-button block color="google" text-wrap (click)="googleLogin()" *ngIf="!userProfile">
+    LOGIN WITH GOOGLE
+  </button>
+  <button ion-button block color="fb" text-wrap (click)="facebookLogin()" *ngIf="!userProfile">
+    LOGIN WITH FACEBOOK
+  </button>
+  <!-- <button ion-button block color="twitter" text-wrap>LOGIN WITH TWITTER</button> -->
+
+  <ion-row>
+    <ion-col><hr color="primary"></ion-col>
+    <ion-col class="txtac" style="font-weight:bold;">OR</ion-col>
+    <ion-col><hr color="primary"></ion-col>
+  </ion-row>
+
+    <button ion-button block text-wrap color="yell" (click)="toggleResetForm()">
+      RESET PASSSWORD
+    </button>
+    <ion-card *ngIf="showResetForm">
+      <ion-card-content>
+        <form [formGroup]="resetForm" (submit)="resetUser()" novalidate>
+              
+          <ion-item>
+              <ion-label floating>Your Email</ion-label>
+              <ion-input type="email" formControlName="email" [class.invalid]="!resetForm.controls.email.valid && blur"></ion-input>
+          </ion-item>
+          <ion-item>
+              <button ion-button block type="submit" [disabled]="!resetForm.valid" color="blues">RESET</button>
+          </ion-item>
+  
+        </form>
+      </ion-card-content>
+    </ion-card>
+  
+  </div>
+</ion-content>

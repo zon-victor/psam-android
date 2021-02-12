@@ -1,0 +1,368 @@
+{
+    "version": "20171115.00",
+    "title": "Technical and Vocational Education and Training",
+    "intro": 
+    {
+        "heading": "What is technical and vocational education and training and what is the role of tvet colleges?",
+        "content": "The term 'Technical and Vocational Education and Training' refers to the vocational or occupational nature of programmes offered, meaning that it prepares learners for a specific job, a number of employment possibilities, or for self-employment. TVET colleges mainly train young people to develop the skills, knowledge and attitudes that are needed in the labour market. They serve young people who want to enrol for vocational programmes after Grade 9 or after finishing school with a Grade 12, as well as learners who want to complete their schooling."
+    },
+    "topics": [
+        {
+            "id": "tvet1",
+            "heading": "What are the benefits of studying at TVET colleges?",
+            "content": [{
+                "type": "list",
+                "header": "",
+                "list": [
+                    "TVET colleges develop practical and other skills for a wide variety of jobs. The colleges maintain close links with key role players in industry and commerce to ensure that their courses are responsive to labour market needs.", 
+                    "The entrepreneurship skills acquired at TVET colleges can be used to start businesses, e.g. in catering, building construction, Information Technology, tourism, or hairdressing.",
+                    "TVET colleges are accessible to all young people, and especially to youth from previously disadvantaged communities who live in poor rural areas.",
+                    "TVET colleges are rooted in their communities and provide education and training to members of their own and nearby communities.",
+                    "The colleges develop the skills that are needed in local businesses and in government departments. People with a college qualification generally earn about 60% more than those with only a matric.",
+                    "Studies conducted in South Africa found that individuals who have completed some level of further study after leaving school are between two and three times more likely to be employed. This means that having a TVET qualification can nearly double your chances of finding employment compared to a matric certificate.",
+                    "Public TVET colleges try to arrange for students to gain practical work experience with employers in their fields of study.",
+                    "The fees for studying at TVET colleges are low compared to fees for other post-school education.",
+                    "The government provides funding to cover part or all of the study fees of learners who cannot afford to pay for further education.",
+                    "Courses offered at public TVET colleges are externally and independently quality assured, and in addition, a number of public TVET colleges are also SABS ISO 9001:2008 certified.",
+                    "In an increasingly globalised labour market, a number of public TVET colleges have international partnerships with similar institutions in various parts of the world. This ensures that education and training is internationally benchmarked against best practices in diverse international settings."
+                ]
+            }]
+        },
+        {
+            "id": "tvet2",
+            "heading": "Who can study at TVET colleges and what learning opportunities are available?",
+            "content": [
+                {
+                    "type": "list",
+                    "header": "TVET colleges cater for a wide variety of people who want to study career-focused vocational programmes. The only age restriction is that the person should be 16 years or older. TVET colleges are open to the following people:",
+                    "list": [
+                        "Students who have completed Grade 12;",
+                        "Persons who left school before completing Grade 12 and those who failed matric could, for example, complete a National Certificate (Vocational) on Level 4, which is equivalent to Grade 12; and",
+                        "Adults who wish to enrol for formal study in study fields offered by TVET colleges."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tvet3",
+            "heading": "Learning opportunities available at TVET colleges",
+            "content": [
+                {
+                    "type": "list",
+                    "header": "There are thousands of learning opportunities at TVET colleges in a wide variety of study fields. In January 2015 the Minister of Higher Education and Training announced that there were approximately 425 095 opportunities available for school leavers, of which the following were available in TVET colleges:",
+                    "list": [
+                        "44 000 opportunities in engineering and business studies,",
+                        "37 000 opportunities for enrolling in National Certificate (Vocational) programmes,",
+                        "85 900 opportunities for occupationally-directed programmes (apprenticeships or learnerships), and",
+                        "16 250 opportunities for those who want to become an artisan in a trade."
+                    ]
+                },
+                {
+                    "type": "line",
+                    "line": "What do the terms <strong><em>learnership</em>, <em>apprenticeship</em>, <em>artisan</em> and trade mean?</strong>"
+                },
+                {
+                    "type": "header",
+                    "header": "<strong>Learnership</strong>"
+                },
+                {
+                    "type": "list",
+                    "header": "A learnership is a structured learning programme that combines theoretical learning provided by a training institution (e.g. a TVET college) with practical work experience gained while working with an employer. Learners who meet all the requirements for theoretical and practical learning are awarded a registered qualification. Learners do not pay anything to participate in a learnership and receive an allowance (or stipend) to cover the costs of transport, meals, etc. for attending the training and work experience sessions. A Learnership Agreement must be signed by the three main parties involved in its implementation:",
+                    "list": [
+                        "The training institution,",
+                        "The employer, and",
+                        "The learner."
+                    ]
+                },
+                {
+                    "type": "header",
+                    "header": "<strong>Apprenticeship</strong>"
+                },
+                {
+                    "type": "paragraph",
+                    "paragraph": "An apprenticeship is a work-based route to a qualification for learners who are interested in working in a practical, technical field, so that they can become qualified artisans. An apprenticeship is similar to a learnership, except that it is always focused on a trade. Apprentices attend formal instruction sessions at a TVET college or other training institution to learn the theory and practical hand skills, and also spend some time in a workplace working under the guidance of a skilled, qualified artisan to become proficient in the trade."
+                },
+                {
+                    "type": "paragraph",
+                    "paragraph": "After completion of the programme the apprentices who are ready can apply to do a trade test at an accredited trade test centre. If they are successful, they are certified as an artisan, e.g. as a cabinet maker, diamond cutter, goldsmith, hairdresser, tailor, toolmaker or upholsterer."
+                },
+                {
+                    "type": "paragraph",
+                    "paragraph": "Learners earn while they learn as they are paid for the time they spend working with an employer during the apprenticeship. Artisans are in high demand in South Africa as many trades are listed as 'scarce skills'. Apprenticeships equip learners with skills that enable them to find employment or to run their own businesses."
+                },
+                {
+                    "type": "header",
+                    "header": "<strong>Artisan</strong>"
+                },
+                {
+                    "type": "paragraph",
+                    "paragraph": "Artisans are workers who are qualified to practice a trade in which they apply highly developed manual skills using their hands and technical equipment. Artisans are in high demand in South Africa and globally and many trades are listed as ‘scarce skills’. Therefore, qualified artisans find employment very easily or they can use their skills to start and run their own business."
+                },
+                {
+                    "type": "header",
+                    "header": "<strong>Trade</strong>"
+                },
+                {
+                    "type": "paragraph",
+                    "paragraph": "This refers to an occupation for which an artisan qualification and relevant trade test is required. All trades are listed by the National Artisan Moderation Body (NAMB), the body responsible for moderating trade tests. Examples of listed trades are cabinet maker, chef, diamond cutter, diesel mechanic, electrician, goldsmith, hairdresser, millwright, refrigeration mechanic, tailor, toolmaker, upholsterer and welder. The list of trades is published by the Department of Higher Education and Training (DHET) in Government Gazette 35625 of 31 August 2012: http://www.gov.za/sites/www.gov.za/files/35625_gon691.pdf. It lists the occupations for which artisan qualifications are required."
+                }
+            ]
+        },
+        {
+            "id": "tvet4",
+            "heading": "Programmes offered by TVET Colleges",
+            "content": [
+                {
+                    "type": "intro",
+                    "intro": "TVET colleges offer different types of career-focused vocational programmes designed specifically to prepare young people to enter the labour market or to become entrepreneurs who start and run their own businesses. Once people become active in the labour market, a range of other career opportunities open up. Many careers will require college graduates to complete additional qualifications. Some public TVET colleges offer up to 300 different courses."
+                },
+                {
+                    "type": "subtopic",
+                    "subheading": "Which qualifications and programmes are offered at public TVET colleges?",
+                    "subcontent": [
+                        {
+                            "type": "paragraph",
+                            "paragraph": "Programmes are offered in many fields, such as agriculture, arts and culture, business, building construction, commerce and management, education and training, engineering, manufacturing, technology, security and services. The courses vary in duration from short courses of a few hours to formal diploma courses of three years. Most courses require full-time attendance of classes, although some courses are offered via distance learning or through blended learning that combines attendance, electronic delivery and self-study."
+                        },
+                        {
+                            "type": "paragraph",
+                            "paragraph": "The colleges mainly offer courses on Levels 1 to 4 on the National Qualifications Framework (NQF), although some colleges offer Higher Certificates on Level 5 with 120 credits."
+                        },
+                        {
+                            "type": "list",
+                            "header": "The two main courses offered by TVET colleges are:",
+                            "list":[
+                                "National Certificate (Vocational) qualifications, the NC (V), and",
+                                "National Accredited Technical Education Diploma (NATED) programmes, also referred to as “Report 191” programmes."
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "header": "TVET colleges offer the following additional qualifications and programmes:",
+                            "list": [
+                                "Selected UNISA and other qualifications registered on the NQF,",
+                                "Occupational work-integrated programmes: learnerships and apprenticeships, as well as trade tests,",
+                                "Skills programmes and non-formal short courses, and",
+                                "National Senior Certificate for learners who want to complete their school education."
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "paragraph": "The above-mentioned qualifications and programmes are described in separate sections below."
+                        }
+                    ]
+                },
+                {
+                    "type": "subtopic",
+                    "subheading": "NQF Level",
+                    "subcontent":[
+                        {
+                            "type": "paragraph",
+                            "paragraph": "SAQA registers qualifications in a prescribed format on the National Qualifications Framework (NQF) against a Level that indicates the level of complexity of learning. The articulation of qualifications across the NQF enables learners to progress through the ten NQF levels in individual learning pathways. The levels of qualifications are indicated in the table below."
+                        },
+                        {
+                            "type": "simpletable",
+                            "table": [
+                                {
+                                    "header": "QUALIFICATION LEVELS ON THE NQF",                                    
+                                    "Level 1": "General Certificate (Grade 9)",
+                                    "Level 4": "National Senior Certificate (Grade 12)",
+                                    "Level 5": "Higher Certificate",
+                                    "Level 6": "Advanced Certificate Diploma",
+                                    "Level 7": "Advanced Diploma <br> Bachelor’s Degree (360 credits)",
+                                    "Level 8": "Bachelor’s Degree (480 credits) <br> Bachelor Honours Degree <br> Post-Graduate Diploma",
+                                    "Level 9": "Master’s Degree",
+                                    "Level 10": "Doctorate (PhD)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "subtopic",
+                    "subheading": "The National Qualifications Framework (NQF)",
+                    "subcontent": [
+                        {
+                            "type": "paragraph",
+                            "paragraph": "The NQF is an integrated national framework that was established in 1995 to bring all education and training in South Africa together into one unified outcomes-based system. All qualifications and unit standards are registered on a particular level on the NQF. The South African Qualifications Authority (SAQA) oversees the NQF and has established a comprehensive quality system to ensure the quality and relevance of qualifications. This gives the assurance that qualifications registered on the NQF enjoy national and international recognition."
+                        },
+                        {
+                            "type": "list",
+                            "header": "The objectives of the NQF are to:",
+                            "list": [
+                                "Create an integrated national framework for learning achievements;",
+                                "Enhance the quality of education and training;",
+                                "Facilitate access to, and mobility and progression within, education, training and career paths;",
+                                "Accelerate the redress of past unfair discrimination in education, training and employment opportunities; and",
+                                "Contribute to the full personal development of each learner and the social and economic development of the nation at large."
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "paragraph": "A unit standard is the smallest building block of the National Qualifications Framework (NQF), and together with qualifications, they constitute the basic structure of the NQF. Each unit standard is registered on the NQF with its title, Level, number of credits and a unique ID number. An example of a unit standard is “Develop a business plan for a small business”. It is on NQF Level 4, has 5 credits and the SAQA ID is 117241. Unit standards are used by training providers to develop learning programmes that are aligned to the NQF. Learners who complete such a programme will receive the credits for the unit standard(s) to which the programme is aligned."
+                        },
+                        {
+                            "type": "stackedtables",
+                            "header": "QUALIFICATIONS ON THE NATIONAL QUALIFICATIONS FRAMEWORK",
+                            "intro": {
+                                "header": "Take Note of these abbreviations",
+                                "abbreviations": "<strong>ABET</strong> – Adult Basic Education and Training (Now AET) <br><strong>FET<strong> – Further Educational and Training <br> <strong>GET</strong> – General Educational and Training <br> <strong>HET</strong> – Higher Education and Training <br> <strong>NATED</strong> – National Accredited Technical Education Diploma <br> <strong>NC (V)</strong> – National Certificate (Vocational) <br> <strong>NSC</strong> – National Senior Certificate <br> <strong>OC</strong> – Occupational Certificate <br> <strong>TVET</strong> – Technical and Vocational Education and Training",
+                                "Source": "Post-school education: Broadening alternative pathways from school to work, by Nicola Branson, et al. (Published in South African Child Gauge, 2015)"                               
+                            },
+                            "stackedtables": [
+                                {
+                                    "header": "LEVEL 10",
+                                    "BAND": "HET",
+                                    "QUALIFICATION TYPE": "Doctoral Degree (professional)",
+                                    "SCHOOL": "",
+                                    "ABET": "",
+                                    "NCV": "",
+                                    "NATED": "",
+                                    "OC": "",
+                                    "PROVIDERS": "University",
+                                    "QUALIFICATIONS": "Degrees"
+                                },
+                                {
+                                    "header": "LEVEL 9",
+                                    "BAND": "HET",
+                                    "QUALIFICATION TYPE": "Master's Degree (professional)",
+                                    "SCHOOL": "",
+                                    "ABET": "",
+                                    "NCV": "",
+                                    "NATED": "",
+                                    "OC": "",
+                                    "PROVIDERS": "University",
+                                    "QUALIFICATIONS": "Degrees"
+                                },
+                                {
+                                    "header": "LEVEL 8",
+                                    "BAND": "HET",
+                                    "QUALIFICATION TYPE": "Bachelor honours degree or Postgraduate diploma",
+                                    "SCHOOL": "",
+                                    "ABET": "",
+                                    "NCV": "",
+                                    "NATED": "",
+                                    "OC": "OC 8",
+                                    "PROVIDERS": "University",
+                                    "QUALIFICATIONS": "Diploma or Degree"
+                                },
+                                {
+                                    "header": "LEVEL 7",
+                                    "BAND": "HET",
+                                    "QUALIFICATION TYPE": "Bachelor’s degree or Advanced diploma",
+                                    "SCHOOL": "",
+                                    "ABET": "",
+                                    "NCV": "",
+                                    "NATED": "",
+                                    "OC": "OC 7 for bachelor’s degree",
+                                    "PROVIDERS": "University",
+                                    "QUALIFICATIONS": "Diploma or Degree"
+                                },
+                                {
+                                    "header": "LEVEL 6",
+                                    "BAND": "HET",
+                                    "QUALIFICATION TYPE": "Diploma & Advanced certificate",
+                                    "SCHOOL": "",
+                                    "ABET": "",
+                                    "NCV": "",
+                                    "NATED": "",
+                                    "OC": "OC 6",
+                                    "PROVIDERS": "University",
+                                    "QUALIFICATIONS": "Certificate"
+                                },
+                                {
+                                    "header": "LEVEL 5",
+                                    "BAND": "HET",
+                                    "QUALIFICATION TYPE": "Higher certificate",
+                                    "SCHOOL": "",
+                                    "ABET": "",
+                                    "NCV": "",
+                                    "NATED": "N4-N6",
+                                    "OC": "OC 5",
+                                    "PROVIDERS": "TVET",
+                                    "QUALIFICATIONS": ""
+                                },
+                                {
+                                    "header": "LEVEL 4",
+                                    "BAND": "FET",
+                                    "QUALIFICATION TYPE": "National certificate",
+                                    "SCHOOL": "Grade 12",
+                                    "ABET": "",
+                                    "NCV": "NCV 4",
+                                    "NATED": "N3",
+                                    "OC": "OC 4",
+                                    "PROVIDERS": "TVET",
+                                    "QUALIFICATIONS": ""
+                                },
+                                {
+                                    "header": "LEVEL 3",
+                                    "BAND": "",
+                                    "QUALIFICATION TYPE": "",
+                                    "SCHOOL": "Grade 11",
+                                    "ABET": "",
+                                    "NCV": "NCV 3",
+                                    "NATED": "N2",
+                                    "OC": "OC 3",
+                                    "PROVIDERS": "TVET",
+                                    "QUALIFICATIONS": ""
+                                },
+                                {
+                                    "header": "LEVEL 2",
+                                    "BAND": "",
+                                    "QUALIFICATION TYPE": "",
+                                    "SCHOOL": "Grade 10",
+                                    "ABET": "",
+                                    "NCV": "NCV 2",
+                                    "NATED": "N1",
+                                    "OC": "OC 2",
+                                    "PROVIDERS": "TVET",
+                                    "QUALIFICATIONS": ""
+                                },
+                                {
+                                    "header": "LEVEL 1",
+                                    "BAND": "GET",
+                                    "QUALIFICATION TYPE": "General certificate for Grade 9",
+                                    "SCHOOL": "Grade 9",
+                                    "ABET": "Level 4 for grade 9, Level 3 for grade 7, Level 2 for grade 5, and Level 1 for grade 3",
+                                    "NCV": "",
+                                    "NATED": "",
+                                    "OC": "",
+                                    "PROVIDERS": "ABET Centres",
+                                    "QUALIFICATIONS": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "subtopic",
+                    "subheading": "Credits",
+                    "subcontent": [
+                        {
+                            "type": "paragraph",
+                            "paragraph": "Each qualification specifies the minimum number of credits that must be achieved to be awarded the qualification, with 1 credit being equal to 10 notional hours of learning. For example, a Diploma requires a minimum of 240 credits which means that students will need to complete approximately 2400 notional hours of learning to achieve all the outcomes of the qualification. Notional hours are an estimation of all the time that it would take an average learner to meet the outcomes, recognising that some learners could achieve the outcomes in less time than others. The calculation of notional hours includes contact time (i.e. time spent in structured learning in the ‘classroom’), learning activities in the workplace (where relevant), self-study, as well as the preparation for and completion of assignments."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tvet5",
+            "heading": "NQF Level",
+            "body": "",
+            "subtopics": {}
+        },
+        {
+            "id": "tvet6",
+            "heading": "",
+            "body": "",
+            "subtopics": {}
+        },
+        {
+            "id": "tvet7",
+            "heading": "",
+            "body": "",
+            "subtopics": {}
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "tvet": {
+        "id": "tvet",
+        "title": "Technical and Vocational Education and Training",
+        "description": "describing the qualifications and other learning programmes offered by public TVET and private colleges",
+        "data": "tvet.json"
+    },
+    "wiop": {
+        "id": "wiop",
+        "title": "Work Integrated and Occupational Programmes",
+        "description": "covering programmes that prepare learners for the world of work, such as learnerships, apprenticeships, internships and other occupation-focused programmes",
+        "data": "wiop.json"
+    },
+    "he": {
+        "id": "he",
+        "title": "Higher Education",
+        "description": "describing the qualifications that are offered by public and private universities and universities of technology",
+        "data": "he.json"
+    },
+    "isa": {
+        "id": "isa",
+        "title": "Informal Skills Acquisition",
+        "description": "covering informal learning opportunities, such as work and life experiences through which learners can prepare for the world of work or further learning",
+        "data": "isa.json"
+    },
+    "sfs": {
+        "id": "sfs",
+        "title": "Strategies for Success",
+        "description": "with guidelines on how to ensure success in post-school learning and avoid dropping out",
+        "data": "sfs.json"
+    },
+    "entrepreneurship": {
+        "id": "entrepreneurship",
+        "title": "Preparing for Entrepreneurship",
+        "description": "with guidelines and programmes to prepare learners to start and run a business",
+        "data": "entrepreneurship.json"
+    }
+}

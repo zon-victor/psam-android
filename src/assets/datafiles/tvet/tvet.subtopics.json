@@ -1,0 +1,219 @@
+{
+    "version": {
+        "major": "20180107",
+        "minor": "01"
+    },
+    "name": "Technical and Vocational Education and Training",
+    "description": "describing the qualifications and other learning programmes offered by public TVET and private colleges",
+    "sections": [
+        {
+            "heading": {
+                "title": "What is technical and vocational education and training and what is the role of tvet colleges?",
+                "bold": false,
+                "tag": "p"
+            },
+            "content": [
+                {
+                    "subheading": {
+                        "exist": false
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "exist":false
+                        },
+                        "tag": "p",
+                        "data": ["The term 'Technical and Vocational Education and Training' refers to the vocational or occupational nature of programmes offered, meaning that it prepares learners for a specific job, a number of employment possibilities, or for self-employment. TVET colleges mainly train young people to develop the skills, knowledge and attitudes that are needed in the labour market. They serve young people who want to enrol for vocational programmes after Grade 9 or after finishing school with a Grade 12, as well as learners who want to complete their schooling."]
+                    }
+                }
+            ]
+        },
+        {
+            "heading": {
+                "title": "What are the benefits of studying at TVET colleges?",
+                "bold": false,
+                "tag": "p"
+            },
+            "content": [
+                {
+                    "subheading": {
+                        "exist": false
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "exist":false
+                        },
+                        "tag": "ul",
+                        "data": [
+                            "TVET colleges develop practical and other skills for a wide variety of jobs. The colleges maintain close links with key role players in industry and commerce to ensure that their courses are responsive to labour market needs.", 
+                            "The entrepreneurship skills acquired at TVET colleges can be used to start businesses, e.g. in catering, building construction, Information Technology, tourism, or hairdressing.",
+                            "TVET colleges are accessible to all young people, and especially to youth from previously disadvantaged communities who live in poor rural areas.",
+                            "TVET colleges are rooted in their communities and provide education and training to members of their own and nearby communities.",
+                            "The colleges develop the skills that are needed in local businesses and in government departments. People with a college qualification generally earn about 60% more than those with only a matric.",
+                            "Studies conducted in South Africa found that individuals who have completed some level of further study after leaving school are between two and three times more likely to be employed. This means that having a TVET qualification can nearly double your chances of finding employment compared to a matric certificate.",
+                            "Public TVET colleges try to arrange for students to gain practical work experience with employers in their fields of study.",
+                            "The fees for studying at TVET colleges are low compared to fees for other post-school education.",
+                            "The government provides funding to cover part or all of the study fees of learners who cannot afford to pay for further education.",
+                            "Courses offered at public TVET colleges are externally and independently quality assured, and in addition, a number of public TVET colleges are also SABS ISO 9001:2008 certified.",
+                            "In an increasingly globalised labour market, a number of public TVET colleges have international partnerships with similar institutions in various parts of the world. This ensures that education and training is internationally benchmarked against best practices in diverse international settings."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "heading": {
+                "title": "Who can study at TVET colleges and what learning opportunities are available?",
+                "bold": false,
+                "tag": "p"
+            },
+            "content": [
+                {
+                    "subheading": {
+                        "exist": true,
+                        "tag": "p",
+                        "bold": false,
+                        "subtitle": "TVET colleges cater for a wide variety of people who want to study career-focused vocational programmes. The only age restriction is that the person should be 16 years or older. TVET colleges are open to the following people:"
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "exist":false
+                        },
+                        "tag": "ul",
+                        "data": [
+                            "Students who have completed Grade 12;",
+                            "Persons who left school before completing Grade 12 and those who failed matric could, for example, complete a National Certificate (Vocational) on Level 4, which is equivalent to Grade 12; and",
+                            "Adults who wish to enrol for formal study in study fields offered by TVET colleges."        
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "heading": {
+                "title": "Learning opportunities available at TVET colleges",
+                "bold": false,
+                "tag": "p"
+            },
+            "content": [
+                {
+                    "subheading": {
+                        "exist": true,
+                        "bold": false,
+                        "tag": "p",
+                        "subtitle": "There are thousands of learning opportunities at TVET colleges in a wide variety of study fields. In January 2015 the Minister of Higher Education and Training announced that there were approximately 425 095 opportunities available for school leavers, of which the following were available in TVET colleges:"
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "exist":false
+                        },
+                        "tag": "ul",
+                        "data": [
+                            "44 000 opportunities in engineering and business studies,",
+                            "37 000 opportunities for enrolling in National Certificate (Vocational) programmes,",
+                            "85 900 opportunities for occupationally-directed programmes (apprenticeships or learnerships), and",
+                            "16 250 opportunities for those who want to become an artisan in a trade."
+                        ]
+                    }
+                },
+                {
+                    "subheading": {
+                        "exist": false
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "exist":false
+                        },
+                        "tag": "p",
+                        "data": ["What do the terms <strong><em>learnership</em>, <em>apprenticeship</em>, <em>artisan</em> and trade mean?</strong>"]
+                    }
+                },
+                {
+                    "subheading": {
+                        "exist": true,
+                        "bold": true,
+                        "tag": "p",
+                        "subtitle": "Learnership"
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "tag":"p",
+                            "exist":true,
+                            "datatitle": "A learnership is a structured learning programme that combines theoretical learning provided by a training institution (e.g. a TVET college) with practical work experience gained while working with an employer. Learners who meet all the requirements for theoretical and practical learning are awarded a registered qualification. Learners do not pay anything to participate in a learnership and receive an allowance (or stipend) to cover the costs of transport, meals, etc. for attending the training and work experience sessions. A Learnership Agreement must be signed by the three main parties involved in its implementation:"
+                        },
+                        "tag": "ul",
+                        "data": [
+                            "The training institution,",
+                            "The employer, and",
+                            "The learner."
+                        ]
+                    }
+                },
+                {
+                    "subheading": {
+                        "exist": true,
+                        "bold": true,
+                        "tag": "p",
+                        "subtitle": "Apprenticeship"
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "exist":false
+                        },
+                        "tag": "p",
+                        "data": [
+                            "An apprenticeship is a work-based route to a qualification for learners who are interested in working in a practical, technical field, so that they can become qualified artisans. An apprenticeship is similar to a learnership, except that it is always focused on a trade. Apprentices attend formal instruction sessions at a TVET college or other training institution to learn the theory and practical hand skills, and also spend some time in a workplace working under the guidance of a skilled, qualified artisan to become proficient in the trade. After completion of the programme the apprentices who are ready can apply to do a trade test at an accredited trade test centre. If they are successful, they are certified as an artisan, e.g. as a cabinet maker, diamond cutter, goldsmith, hairdresser, tailor, toolmaker or upholsterer. Learners earn while they learn as they are paid for the time they spend working with an employer during the apprenticeship. Artisans are in high demand in South Africa as many trades are listed as ‘scarce skills’. Apprenticeships equip learners with skills that enable them to find employment or to run their own businesses."
+                        ]
+                    }
+                },
+                {
+                    "subheading": {
+                        "exist": true,
+                        "bold": true,
+                        "tag": "p",
+                        "subtitle": "Artisan"
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "exist":false
+                        },
+                        "tag": "p",
+                        "data": ["Artisans are workers who are qualified to practice a trade in which they apply highly developed manual skills using their hands and technical equipment. Artisans are in high demand in South Africa and globally and many trades are listed as ‘scarce skills’. Therefore, qualified artisans find employment very easily or they can use their skills to start and run their own business."]
+                    }
+                },
+                {
+                    "subheading": {
+                        "exist": true,
+                        "bold": true,
+                        "tag": "p",
+                        "subtitle": "Trade"
+                    },
+                    "subcontent": {
+                        "dataheading": {
+                            "exist":false
+                        },
+                        "tag": "p",
+                        "data": ["This refers to an occupation for which an artisan qualification and relevant trade test is required. All trades are listed by the National Artisan Moderation Body (NAMB), the body responsible for moderating trade tests. Examples of listed trades are cabinet maker, chef, diamond cutter, diesel mechanic, electrician, goldsmith, hairdresser, millwright, refrigeration mechanic, tailor, toolmaker, upholsterer and welder. The list of trades is published by the Department of Higher Education and Training (DHET) in Government Gazette 35625 of 31 August 2012: http://www.gov.za/sites/www.gov.za/files/35625_gon691.pdf. It lists the occupations for which artisan qualifications are required."]
+                    }
+                }
+            ]
+        },
+        {
+            "heading": {
+                "title": "",
+                "bold": false,
+                "tag": "p"
+            },
+            "content": [
+                {
+                    "subheading": {
+                        "exist": false
+                    },
+                    "subcontent": {
+                        "tag": "ul",
+                        "data": []
+                    }
+                }
+            ]
+        },
+    ]
+}

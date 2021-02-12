@@ -1,0 +1,64 @@
+page-section-template {
+    ion-header {
+        height: 56px;
+        padding: 0;
+    }
+    ion-content {
+        background: white;
+        font-size: 3vh;
+    }
+
+    .section-button {
+        position: absolute;
+        left: 0;
+        height: 48px;
+        width: 48px;
+        top: 0;
+        background: transparent;
+        font-size: 24px;
+    }
+
+    .section-title {
+        // align-items: center;
+        text-transform: lowercase;
+        position: absolute;
+        left: 48px;
+        min-width: 272px;
+        width: auto;
+        max-width: 75vw;
+        height: 56px;
+        top: 0;
+        background: transparent;
+        text-overflow: ellipsis;
+        text-align: left  !important;
+    }
+
+    #all {
+        height: auto;
+        font-family: 'Poppins Regular';
+    }
+
+    //subsection formating
+    .subsection_heading {
+        text-align: center;
+        justify-content: center;
+        font-weight: 700;
+    }
+
+    .subsection_heading_line {
+        width: 50vw;
+        height: 0;
+        border-top: 2px solid #01122c;
+        margin: 0 auto;
+    }
+
+    //content heading
+    .content_heading {
+        font-family: 'Poppins SemiBold';
+    }
+
+    //content heading
+    .data_heading {
+        font-family: 'Poppins Medium';
+    }
+}

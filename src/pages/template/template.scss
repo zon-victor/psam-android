@@ -1,0 +1,97 @@
+page-template {
+    
+        .sections {
+            width: 100%;
+            height: 70vh;
+            overflow: hidden;      
+            position: absolute;
+            top:0;
+            left: 0;
+            right: 0;
+        }
+    
+        .sections ion-card {
+            background-color: #ffffff;
+            border-radius: 5px;
+            position: absolute;
+            top: 5vh;
+            height: 60vh;
+            width: 80vw;
+            left: 10vw;
+            font-family: 'Poppins Italic', sans-serif;
+        }
+    
+        .section-header {
+            height: 10vh;
+            width: 100%;
+            font-size: 3vmin;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: #222222;
+            // text-transform: uppercase;
+            font-family: 'Poppins Bold';
+        }
+        .sections ion-card ion-card-content {
+            height: 45vh;
+        }
+    
+        .section-footer {
+            position: absolute;
+            bottom: 0;
+            height: 10vh;
+            width: 100%;
+            left: 0;
+            border-top: 1px solid #e27083;
+            background: rgb(255, 255, 255);
+            text-align: center;
+        }
+    
+        ul {
+            margin: 0;
+            list-style: none;
+            list-style-position: inside;
+        }
+    
+        #isections {
+            position: absolute;
+            top: 70vh;
+            left: 10.5vw;
+            height: 20vh;
+            width: 80vw;
+        }
+
+        #isections ion-slide {
+            height: 15vh;
+        }
+
+        #isections ion-slide ion-card {
+            height: 15vh;
+            width: 100%;
+        }
+
+        .isection_heading {
+            width: 100%;
+            height: 100%;
+            font-size: 6vmin;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            // color: #222222;
+            // text-transform: uppercase;
+            font-family: 'Poppins Bold';
+        }
+
+        .list {
+            list-style: square;
+            font-size: 2.5vh;
+        }
+
+        .open-section {
+            background-color: rgba(153, 153, 153, 0.486);
+            margin-top: 2vh;
+        }
+    
+    }

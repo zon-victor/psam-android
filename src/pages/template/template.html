@@ -1,0 +1,66 @@
+
+<ion-header>
+    
+      <ion-navbar style="background-color: transparent">
+          <button ion-button menuToggle>
+              <ion-icon name="menu"></ion-icon>
+          </button>
+        <ion-title text-wrap>{{topicTitle}}</ion-title>
+      </ion-navbar>
+    
+    </ion-header>
+    
+    <ion-content padding>
+    
+      <div class="sections" swing-stack [stackConfig]="stackConfig" #myStack>
+<!-- this the card (-_-) ... renders each section of a topic... just the preview-->
+        <ion-card swing-card #myCard *ngFor="let section of myArr(sections); let i = index;" [style.marginTop] = "getMargin(i, -4)" [style.marginLeft] = "getMargin(i, 0)">
+            <ion-card-header class="section-header" [ngStyle]="{'background-color': getColor(topicID)}" text-wrap>
+                {{section.section_heading}}
+            </ion-card-header>
+            <ion-card-content *ngIf="setPreviewContent(section)" padding>
+              <ng-template [ngIf]="content_heading.length > 0">
+                  <h1>
+                    {{content_heading}}
+                  </h1><br>
+              </ng-template>
+              <ng-template [ngIf]="data_heading.length > 0">
+                  <h2>
+                    {{data_heading}}
+                  </h2>
+              </ng-template>
+              <!-- render as paragraph -->
+              <ng-template [ngIf]="tag == 'p'">
+                  <p *ngFor="let para of myArr(data)">
+                    {{para}}
+                  </p><br>
+              </ng-template>
+              <!-- render as unordered list -->
+              <ng-template [ngIf]="tag == 'ul'">
+                <ul class="list">
+                    <li *ngFor="let list of myArr(data)">
+                        {{list}}
+                    </li>
+                </ul>
+              </ng-template>
+              <div class="section-footer"><!-- the footer with open section button -->
+                  <button ion-button clear round class="open-section" (tap)="openSection(section)">
+                      open section &nbsp;<ion-icon name="open" [ngStyle]="{'font-size': '36px'}" color="topicID"></ion-icon>
+                  </button>
+              </div>
+            </ion-card-content>
+        </ion-card>
+
+      </div>
+     <!-- Those sections which deserves special treatement cause they hate being part of the stack... under the cards when you enter a topic -->
+     <ion-slides id="isections" *ngIf="isections_exist" pager>
+        <ion-slide padding *ngFor="let section of isections; let i = index">
+          <ion-card [ngStyle]="{'background-color': getColor(topicID)}" text-wrap>
+             <button class="isection_heading" (tap)="openSection(section)">
+               {{section.section_heading}}&nbsp;<ion-icon name="open" [ngStyle]="{'font-size': '36px'}" color="primary"></ion-icon>
+            </button>
+          </ion-card>
+        </ion-slide>
+      </ion-slides>
+    
+    </ion-content>

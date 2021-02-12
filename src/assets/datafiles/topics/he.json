@@ -1,0 +1,942 @@
+{
+  "version": {
+    "major": "20180110",
+    "minor": "01"
+  },
+  "topic": "Higher Education",
+  "description": "describing the qualifications that are offered by public and private universities and universities of technology",
+  "sections": [
+    {
+      "section_heading": "What is higher education?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Higher education refers to the formal education at university level that enables students to achieve qualifications such as Diplomas, Bachelor’s degrees, Master’s degrees or Doctorates. These qualifications have a strong theoretical basis, although many higher education qualifications also include practical application to the world of work. Higher education prepares students for specific professions, e.g. to become an architect, engineer, lawyer, medical doctor, psychologist or teacher, or it offers students a general education in fields such as the arts, commerce, management, health sciences or natural sciences."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "What higher education institutions are there in South Africa?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "South Africa has a strong higher education sector, with 26 public (state-funded) higher education institutions and more than 90 (in 2015) registered private higher education institutions. The public institutions are divided into three types: 14 traditional universities (which mainly offer theoretically-oriented university degrees), six comprehensive universities (which offer academic and vocational certificates, diplomas and degrees) and six universities of technology (which offer vocationally-oriented diplomas and degrees). The major cities have at least one university. Many universities have satellite campuses in smaller centres across the country."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Why choose higher education?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The higher education route is for students who wish to continue their formal studies after completing school. Many jobs require a higher education qualification as an entry requirement. It is a fact that students who obtain a post-Grade 12 qualification have a substantially higher chance of finding employment or being self-employed. In addition, many professions require a higher education qualification for registration, membership or licensing to enable the professional to practice.",
+                "Higher education makes a major contribution to transforming South African society, in particular by improving access to university study for people from previously disadvantaged groups, thus enabling them to play a stronger role in society and in the economy. Since the eve of democracy, the participation rate of Africans, Coloureds and Indians has increased substantially."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "What are the entry requirements into higher education?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Students need at least a Grade 12 with a matriculation exemption as the legal requirement to enter a first degree at a higher education institution. Students can enter university with a National Senior Certificate (NSC) (i.e. school Matric), an NQF Level 4 National Certificate Vocational (that is offered by Technical and Vocational Education and Training (TVET) colleges, or another qualification that is equivalent to these two qualifications. Universities grant provisional admission to students based on the final Grade 11 results with final admission based on final Grade 12 results.",
+                "If you do not have one of these qualifications, for example if you are a mature or international student, you could contact Universities South Africa [formerly known as Higher Education South Africa (HESA)] (www.universitiessa.ac.za) to apply for a certificate of exemption issued by the Matriculation Board."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "General admission requirements from the Independent Examinations Board (IEB)",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "Admission requirements for further study at the Higher Certificate level",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "heading": false,
+                  "tag": "ul",
+                  "data": ["Pass the National Senior Certificate (NSC)"]
+                },
+                {
+                  "heading": false,
+                  "tag": "p",
+                  "data": [
+                    "Meet the language requirement for further study at a South African institution, namely, one of the two official languages offered by the learner must be either English or Afrikaans. To meet the language criterion to qualify for entry to study at a tertiary (i.e. post school) education institution, the learner must pass either English or Afrikaans at least at the 1st additional level i.e. at 30% or more."
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "Admission requirements for further study at the Diploma level",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "heading": "Pass the National Senior Certificate (NSC) as follows:",
+                  "tag": "ul",
+                  "data": [
+                    "One official language at home language level at 40%",
+                    "3 other subjects at 40%",
+                    "2 subjects at 30%"
+                  ]
+                },
+                {
+                  "heading": false,
+                  "tag": "p",
+                  "data": [
+                    "Meet the language requirement for further study at a South African institution, namely, one of the two official languages offered by the learner must be either English or Afrikaans. To meet the language criterion to qualify for entry to study at a tertiary education institution, the learner must pass either English or Afrikaans at least at the 1st additional level i.e. at 30% or more."
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Note: The key difference between qualifying for entry into diploma study rather than higher certificate study is that the learner must achieve 40% or more in 4 subjects (incl. the official language at home language level) for the Diploma rather than just 3 subjects for the Higher Certificate."
+              ]
+            },
+            {
+              "content_heading": "Admission requirements for further study at the Bachelor Degree level",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "heading": "Pass the NSC as follows:",
+                  "tag": "ul",
+                  "data": [
+                    "One official language at home language level at 40% or more",
+                    "4 subjects from the designated list of subjects at 50% or more",
+                    "2 subjects at a minimum of 30%"
+                  ]
+                },
+                {
+                  "heading": false,
+                  "tag": "p",
+                  "data": [
+                    "Meet the language requirement for further study at a South African institution, namely, one of the two official languages offered by the learner must be either English or Afrikaans. To meet the language criterion to qualify for entry to study at a tertiary education institution, the learner must pass either English or Afrikaans at least at the 1st additional level i.e. at 30% or more."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Examples of admission requirements",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "image",
+              "data": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "What if I don’t meet the entry requirements into higher education and how can I improve my chances of meeting the requirements?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "If you don’t meet the entry requirements to get into university this does not have to mean that you have reached a dead end. There are learning opportunities that can prepare you to enter university at a later stage. The South African Institute of Electrical Engineers confirms that “you don’t have to go to university immediately to become an Electrical Engineer. Some of today’s most prominent figures in the Electrical Engineering society commenced their studies at an FET College, then moved on to a university of technology and ultimately qualified as Electrical Engineers at university”."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Here are some options if you don’t meet the requirements to enter university:",
+              "tag": "p",
+              "data": [
+                "If your overall Matric results were too low to enter university, you could repeat Grade 12. You can do this at any institution that offers Grade 12 such as a Technical and Vocational Education and Training (TVET) college or an accredited private TVET institution. Depending on your circumstances and preferences, you could do it full time by attending classes, or through self-study via distance learning (e.g. a correspondence course), or you could do it part time while working.",
+                "If your marks in some Matric subjects were too low, you could repeat only those subjects at one of the above-mentioned institutions that offer those subjects on Grade 12 level.",
+                "If you do not meet the entry requirements of the qualification that you want to enrol for (e.g. a Bachelor’s Degree), you could enrol for a qualification on a lower level (e.g. a Higher Certificate or Diploma) and use that as a stepping stone into the degree programme.",
+                "Some universities offer ‘bridging’ programmes to assist students whose matric results are considered too low to cope with the complexity of learning at university. You will need to contact universities directly to find out what programmes they have that could assist you."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Where can school leavers get more information about studies in higher education?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "There are many resources available to assist school learners in planning their university studies, for example guidance received during school programmes and career counselling and advice provided by private individuals and businesses. There are also many resources available on the internet, of which a few are mentioned here."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Khetha National Career Development Services of the Department of Higher Education and Training provides a wide range of information and advice that learners can use in making career choices while still at school and during their post-school learning journey. The Career Development Services also has fully qualified Career Advisors for providing career information, guidance and advice. Some of the resources on this website (http://www.careerhelp.org.za) are:",
+              "tag": "ul",
+              "data": [
+                "TVET Basic Career Guide,",
+                "KHETHA Post-School Career Guide,",
+                "Information on Post-School Options and Careers,",
+                "Making a Career Choice,",
+                "Financing your studies, and",
+                "Subject Choice to assist Grade 9 learners to make the right choices of subjects for Grade 10 that will enable them to pursue their chosen career path on completion of Grade 12;"
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Careers portal: This site provides information on bursaries, loans and careers, as well as public and private training institutions. It also provides information on internship and learnership opportunities offered by companies, and graduate programmes funded by various institutions. (www.careersportal.org.za)",
+                "Smartstudent: This website provides information on universities for school leavers. It includes advice on issues such as choosing a course, what to take to university and student accommodation, as well as a list of public universities and information on the ranking of universities. (http://www.smartstudent.co.za/university)",
+                "Universities: Most universities offer a wide range of information and services to support learners who wish to enter the university and to assist first-year students to cross the bridge between school and higher education. For example, they provide career counselling advice to school learners, advice on study methods, information on fees and funding sources, advice on accommodation, and even bridging and academic development programmes to assist first-year students to fill the gap between specific school subjects (e.g. maths) and the level required at university."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Where can I get career advice?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "please visit the Strategies for Success section in this app"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "How do I apply to enrol at a higher education institution?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "You can apply directly to the institution of your choice as universities provide information on their websites for applicants. You can also apply through the Central Application Clearing House (CACH) established by the Department of Higher Education (DHET). CACH provides a service for learners who qualify for higher education studies but have not been accepted at an institution of their choice at the time the matric results were released. It is also for those learners who did not apply before the closing dates but later find that they are eligible for higher education studies. The CACH system matches a prospective student’s profile and study preference with universities, Technical and Vocational Education and Training (TVET) colleges, etc. to assist students to access learning opportunities.",
+                "You can access the CACH system in January and February via the website: http://cach.dhet.gov.za, or the call centre on 0860 356 635, or by sending an SMS with your name and ID number to 49200 to be telephoned back free of charge."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "What support do higher education institutions provide for new students?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Most higher education institutions offer a wide range of information and services to support learners who wish to enter the university and to assist first-year students to cross the bridge between school and higher education. For example, they provide career counselling advice to school learners, advice on study methods, information on fees and funding sources, advice on accommodation, and even bridging programmes to assist first-year students to fill the gap between specific school subjects (e.g. maths) and the entry level required at university. Most universities offer academic support programmes, e.g. by extending the time for completing a qualification by a year. Here are two examples of such support:",
+                "University of the Witwatersrand has the Go to the University to Succeed (GUTS) programme that supports the aspirations of high potential Grade 11 and 12 learners (from previously disadvantaged backgrounds), who would not normally consider Higher Education as a post-secondary school option. (http://www.wits.ac.za)",
+                "University of Cape Town has the 100UP project that targets school learners from disadvantaged backgrounds and coaches them towards access to the university. (http://www.sii.uct.ac.za/sii/100up#sthash.wofUeMuG.dpuf)"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isections": [
+    {
+      "section_heading": "Universities of Technology",
+      "subsections": [
+        {
+          "subsection_heading": "What is unique about universities of technology and what are the benefits of studying at these institutions?",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Universities and universities of technology offer similar qualifications ranging from Higher Certificates (as the entry into higher education) up to Doctoral degrees. The distinguishing factor is that universities of technology focus on technology innovation and transfer and offer technological career-directed educational programmes. They engage with industry to produce innovative problem-solving research. Many of the programmes offered include work-integrated learning that requires students to complete a structured programme while working in an organisation. This exposure to industry develops additional competencies that are not gained through purely academic programmes and assists graduates to find employment after graduation."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Universities of technology",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "There are six universities of technology with campuses in all provinces except in the Eastern Cape.",
+              "tag": "image",
+              "data": []
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Qualifications offered by Universities of Technology",
+          "contents": [
+            {
+              "content_heading": "What can I study at universities of technology and what qualifications do they offer?",
+              "data_heading": "Universities of technology offer qualifications in most of the fields offered by universities, for example:",
+              "tag": "ul",
+              "data": [
+                "Accounting, economics and finance",
+                "Agriculture",
+                "Architecture",
+                "Clothing, textile, footwear and leather manufacturing",
+                "Graphic design and multi-media",
+                "Education",
+                "Energy, e.g. renewable energy and water resource management",
+                "Engineering",
+                "Environmental sciences, e.g. marine science",
+                "Food and nutrition",
+                "Health and wellness sciences, e.g. emergency medical care",
+                "Information and communication technology",
+                "Journalism",
+                "Management and Government management",
+                "Medicine, e.g. dental technology, nuclear medicine technology, radiation therapy",
+                "Sport management, and",
+                "Tourism and hospitality management."
+              ]
+            },
+            {
+              "content_heading": "The types of qualifications offered by universities of technology",
+              "data_heading": "Most universities of technology offer the following qualifications that are on the higher education band of the National Qualifications Framework (NQF), ranging from NQF Level 5 to Level 10.",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "ul",
+                  "heading": "Under-graduate qualifications: These are the first qualifications that you can achieve at a university or other training institution after completing your schooling.",
+                  "data": [
+                    "Higher Certificate",
+                    "National Certificate",
+                    "National Higher Certificate",
+                    "Advanced Certificate",
+                    "Diploma, Higher Diploma, National Diploma & Advanced Diploma",
+                    "Baccalaureus Technologiae (B Tech) and Bachelor’s Degree"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": false,
+                  "data": [
+                    "Note 1: Some offer the Further Education and Training Certificate (NQF Level 4).<br>Note 2: Details are only provided on under-graduate qualifications in this website."
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "heading": "Post-graduate qualifications: These are qualifications for which you can enrol after you have obtained your first post-school qualification.",
+                  "data": [
+                    "Postgraduate Certificate and Diploma",
+                    "Bachelor Honours Degree",
+                    "Magister Technologiae (M Tech) and Master’s Degree",
+                    "Doctor Technologiae (D Tech) and Doctoral Degree"
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "What experiential/work-integrated learning is included in qualifications offered by universities of technology?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Some qualifications are designed to incorporate periods of required practical work in an actual work environment as a requirement for achieving the qualification. This is referred to as ‘Work Integrated Learning’ (WIL) or ‘experiential learning’ and is particularly prescribed for National Diplomas offered by universities of technology and some universities.",
+                "The experiential learning prepares students for a specific profession or vocation as they gain practical experience in applying the knowledge they gained during the period of academic study at the university. It involves the solution of real problems and encourages students to develop a greater sense of responsibility, place more reliance on their judgement, and find greater meaning in their studies.",
+                "The qualification programme will specify the projects and/or assignments which must be completed as WIL or experiential learning. It will also specify the minimum number of hours that must be completed in the workplace, where the student is supervised by a mentor to complete independent work. The practical work must be submitted for formal assessment, and the marks are included in the final marks for the programme.",
+                "A typical example is the National Diploma: Electrical Engineering that is offered by the Nelson Mandela Metropolitan University (NMMU) in a ‘co-operative manner’ that combines academic study with an experiential period of learning in industry in such a way that they supplement each other. The experiential learning modules are: Engineering Practice I (P1), Electrical Engineering Practice II (P2) and Electronic Engineering Practice II (P2). These must be completed over at least 24 weeks or a minimum of 800 notional hours. The P1 and P2 modules supplement the academic semester modules, e.g. Electronics I (S1) and Electrical Engineering I (S2). [Note: The academic semester modules are indicated as ‘S’ modules and the experiential practical work as ‘P’ modules.]",
+                "Another example is the National Diploma in Mechanical Engineering: Marine Engineering from the Cape Peninsula University of Technology (CPUT). After completing the academic modules over two years, students are required to complete a minimum of 12 months unlimited sea service aboard vessels with an engine capacity greater than 750 kW as well as practical workshop training of approximately six months."
+              ]
+            },
+            {
+              "content_heading": "What are the entry requirements for universities of technology?",
+              "data_heading": "There are different entry requirements for applicants with a National Senior Certificate, National Certificate (Vocational), i.e. the NC (V), and N3-N6. The entry requirements for these are described in separate sections below, with examples.",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "p",
+                  "heading": "Entry requirements for applicants with a National Senior Certificate (NSC), i.e. Grade 12",
+                  "data": [
+                    "The minimum admission requirements for under-graduate study at universities of technology are a South African National Senior Certificate (NSC), Senior Certificate (prior to 2008), or a Matric Certificate. The initial selection is based on the final Grade 11 or any latest Grade 12 results."
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "heading": "The Central University of Technology (CUT) prescribes the general admission requirements as follows for applicants with a National Senior Certificate (NSC):",
+                  "data": [
+                    "At least a National Senior Certificate (NSC) (i.e. Grade 12) is required for enrolling for the following university of technology qualifications: National Certificate, National Higher Certificate, National Diploma, Advanced Diploma, or Bachelor’s Degree.",
+                    "For English as Home Language or First Additional Language as well as Life Orientation, a pass mark according to the specific requirements as set in the applicable programme will be required.",
+                    "A candidate for a degree, diploma or certificate must score at least 27 or more points on the CUT scoring scale in the Grade 12 examination in July, or a subsequent examination. If a candidate meets the minimum subject requirements for a degree, diploma or certificate but scores less than 27 points, but 20 or more on the CUT scoring scale in the Grade 12 examination in July or a subsequent examination, the CUT will consider the applicant.",
+                    "If an applicant fails to qualify for admission to the CUT in terms of these regulations, such an applicant may be subject to the testing of potential."
+                  ]
+                },
+                {
+                  "tag": "image",
+                  "heading": "Entry requirements for applicants with a National Certificate (Vocational)",
+                  "data": [
+                    "Most universities of technology will have similar requirements to the examples provided here from the Central University of Technology (CUT). The general admission requirements for applicants with NC (V) are described in the table below.",
+                    "image link"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": "Admission requirements for students with N3, N4, N5 and N6 qualifications",
+                  "data": [
+                    "The Central University of Technology prescribes the general admission requirements in the table below for applicants with N3, N4, N5 and N6 qualifications obtained from a Technical and Vocational Education and Training (TVET) institution."
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "heading": "Additional institutional requirements for applicants with N3 to N6",
+                  "data": [
+                    "A candidate in possession of an N3, N4, N5 or N6 certificate may qualify for admission to the first year of Diploma qualifications – based on his/her seven best subjects for N4/N5 or N5/N6 and a minimum of 50% obtained for English on N3 level.",
+                    "However a candidate must meet the minimum admission requirements, including the language requirement, on the CUT scoring scale before he/she will be allowed to write an access assessment test.",
+                    "A candidate with an N3, N4, N5 or N6 certificate does not qualify for subject recognition."
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": "Subject recognition may be granted to TVET students who have successfully completed their N6 Diploma. Such subject recognition will only be considered for first-year CUT certificate and/or diploma subjects and it will only be based on TVET N6 level Diploma subjects successfully completed. These subjects must be passed at N4, N5 and N6 level with 50% or above.",
+                  "data": [
+                    "Subject recognition may be granted to TVET students who have successfully completed their N6 Diploma. Such subject recognition will only be considered for first-year CUT certificate and/or diploma subjects and it will only be based on TVET N6 level Diploma subjects successfully completed. These subjects must be passed at N4, N5 and N6 level with 50% or above."
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "What are the key features of under-graduate qualifications offered by universities of technology?",
+              "data_heading": "The examples in this table are from the Central University of Technology (CUT) in the Free State (http://www.cut.ac.za/programmes-offered).",
+              "tag": "image",
+              "data": ["base64 image string"]
+            },
+            {
+              "content_heading": "How do I find the qualifications offered by universities of technology?",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "ul",
+                  "heading": "There are a number of ways to find the qualification and university you are looking for. Three are described here:",
+                  "data": [
+                    "South African Qualifications Authority (SAQA),",
+                    "National Career Advice Portal (NCAP), and",
+                    "University and other websites."
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": false,
+                  "data": [
+                    "Click here (http://www.bridge.org.za/knowledge-hub/psam/he/universities/qualifications-offered-universities/) for guidelines on how to search for qualifications offered by universities. This information also applies to qualifications offered by universities of technology."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Funding studies at Universities of Technology",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "How much does it cost to study at a university of technology?",
+              "tag": "p",
+              "data": [
+                "The fees for studying at universities of technology differ widely, and are determined mainly by the type of programme and the delivery mode. You therefore need to contact the institution where you plan to study to determine the fee for the specific programme you want to enrol for."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "The fees for the Cape Peninsula University of Technology in the table below give an idea of fees for 2015.",
+              "tag": "p",
+              "data": ["b64 image string"]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Where can I get money to pay for my studies?",
+              "tag": "p",
+              "data": [
+                "Click here (http://www.bridge.org.za/knowledge-hub/psam/he/universities/funding-university-studies/) for information on bursaries, loans and other ways to fund your studies."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Universities",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Three types of higher education institutions are described in this section: universities, universities of technology and private higher education institutions. They offer similar qualifications that range from Higher Certificates (as the entry into higher education) up to Doctoral degrees. The distinguishing factor is that universities of technology focus on technology innovation and transfer."
+              ]
+            },
+            {
+              "content_heading": "What role do universities play in post-school education?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "South African universities perform a key role in the skills development system through providing opportunities for graduate and post-graduate studies as well as generating research and innovation in order to assist in addressing the skills shortages in South Africa. More than 1 million students from South Africa, the African continent and foreign countries enrolled in South African universities in 2015. Universities enable school leavers to further their studies and to acquire more advanced skills needed in the job market or for self-employment."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Qualifications offered by Universities",
+          "contents": [
+            {
+              "content_heading": "What types of qualifications are offered by universities?",
+              "data_heading": "Most universities offer the following qualifications that are on the higher education band of the National Qualifications Framework (NQF), ranging from NQF Level 5 to Level 10.",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "ul",
+                  "heading": "Under-graduate qualifications: These are the first qualifications that you can achieve at a university or other training institution after completing your schooling.",
+                  "data": [
+                    "Higher Certificate",
+                    "Advanced Certificate",
+                    "Diploma",
+                    "Advanced Diploma",
+                    "Bachelor’s Degree"
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "heading": "Post-graduate qualifications: These are qualifications for which you can enrol after you have obtained your first post-school qualification.",
+                  "data": [
+                    "Postgraduate Diploma",
+                    "Bachelor Honours Degree",
+                    "Master’s Degree",
+                    "Doctoral Degree"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": false,
+                  "data": [
+                    "Note: Only under-graduate qualifications are described under Higher Education on this website.",
+                    "Click here (http://www.bridge.org.za/knowledge-hub/psam/tvet/programmes-offered-tvet-colleges/#item-2) for a table that indicates all the types of qualifications on the NQF."
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "What is the nature of programmes offered by universities and how are they delivered?",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "p",
+                  "heading": false,
+                  "data": [
+                    "Most of the programmes offered at the traditional universities are academic, focussing on the underlying theoretical frameworks of the different fields in which programmes are offered. Some programmes include a great deal of application to the real world (e.g. programmes in architecture, nursing and teaching), while others are more theoretical (e.g. theology). However, even the more traditional ‘academic’ universities are increasingly building real-world application into their programmes to assist students to prepare for employment or self-employment in the world of work. Many qualifications require students to complete specified work experience, especially the programmes offered by the universities of technology. Most professions also prescribe work experience during or after completing university programmes for professional registration (e.g. the Engineering Council of South Africa (ECSA) requirements for engineers).",
+                    "Universities of technology place greater emphasis on application of learning. They offer technological career-directed programmes that prepare students more directly for the world of work. These universities interact closely with industry, in particular, to ensure that their programmes address real industry needs.",
+                    "The ‘comprehensive’ universities (e.g. UNISA and the universities of Johannesburg and Zululand) offer vocational diplomas and degrees that are focused more on preparing students for specific careers, in addition to more academic programmes."
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "heading": "There are a number of ways in which university programmes are delivered:",
+                  "data": [
+                    "Programmes are offered through formal lectures at the institutions, through distance learning (e.g. through UNISA), or even via on-line delivery. Some programmes are even offered through a combination of class attendance and other delivery modes, commonly referred to as blended learning.",
+                    "Students can enrol for full-time study for the entire duration of the programme or they can choose part-time study. Part-time study allows people who are working to attend classes in the evenings or to attend short study schools that are offered throughout the academic year. Universities will indicate which programmes can be completed on a part-time basis."
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "What are the key features of under-graduate qualifications?",
+              "data_heading": "Key features of under-graduate qualifications",
+              "tag": "image",
+              "data": [
+                "The table below provides the titles, levels, credits and other distinguishing features (such as Work-Integrated Learning) of under-graduate qualifications.",
+                "b64 image string"
+              ]
+            },
+            {
+              "content_heading": "How do I find the qualifications offered by universities?",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "ul",
+                  "heading": "There are a number of ways to find the qualification and university you are looking for. Three are described here:",
+                  "data": [
+                    "South African Qualifications Authority (SAQA),",
+                    "National Career Advice Portal (NCAP), and",
+                    "University and other websites."
+                  ]
+                },
+                {
+                  "tag": "multi",
+                  "heading": "Option 1: South African Qualifications Authority (SAQA)",
+                  "data": [
+                    {
+                      "tag": "ul",
+                      "heading": "The SAQA website has a list of all the registered qualifications under ‘Registered Qualifications’ (http://regqs.saqa.org.za/search.php?cat=qual). You don’t need to complete the entire table in order to search for registered qualifications on the website; only complete two or three key items, e.g.",
+                      "data": [
+                        "Under ‘Qualification Title’ type in a key word of the area in which you want to study, e.g. ‘Chemistry’, ‘Nursing’, ‘Agriculture’ or ‘Sport’. If you select ‘View as table’ at the bottom of the table and select ‘Go’, you will get a list of all the qualifications with that key word in the title. To avoid having to read through the long list, complete more items in the table.",
+                        "If you know the institution where you want to study, under ‘Accredited Provider’ select the institution from the drop-down menu.",
+                        "If your achievements in Grade 12 meet the entry requirements to enrol for a Bachelor’s degree, under ‘Qualification Type’ select, ‘National First Degree’ (where you will find the Bachelor’s degrees on NQF Level 7). If your achievements in Grade 12 do not meet the entry requirements for a Bachelor’s degree, you could select ‘Higher Certificate’ or ‘National Higher Certificate’ (both on NQF Level 5)."
+                      ]
+                    },
+                    {
+                      "tag": "image",
+                      "heading": "The table below is an example of the information provided on qualifications on the SAQA website.",
+                      "data": [
+                        "The table below appears if you type in ‘Agriculture’ under ‘Qualification Title’, and from the drop-down menus you select University of KwaZulu-Natal under ‘Accredited Provider’, and National First Degree under ‘Qualification Type’. The table confirms that the university offers three Bachelor Degrees in Agriculture on NQF Level 7 (that were on Level 6 before 2009, when the NQF Levels were increased from 8 to 10) and two on Level 8 (that were on Level 7 before 2009). It also indicates that the minimum credits vary from 384 (indicating a 3-year degree) to 514 (indicating a 4-year degree). The other information is not really important for prospective students looking for the qualifications offered by universities.",
+                        "base64 image"
+                      ]
+                    },
+                    {
+                      "tag": "ul",
+                      "heading": "If you click on the hyperlink of the identity number 72830 of the first qualification in the first column, it will open the entire qualification as it is registered by SAQA. This will give you more detail on the qualification. The Exit Level Outcomes will give you an idea of the focus of the qualification and the knowledge and skills it will develop. The exit level outcomes for the Bachelor of Agriculture are:",
+                      "data": [
+                        "Understand the fundamentals of applied plant science, namely: soil/plant/atmosphere interactions and management; plant genetics, biochemistry and physiology; interactions of plants with pathogens/pests/weeds and management thereof; plant propagation; plant nutrition; crop production and utilization; and analysis and interpretation of statistical data.",
+                        "Develop generalist to specialist knowledge of, and practical skills in, a chosen qualification or combination of qualifications available within the programme.",
+                        "Through prescribed modules, develop effective: Time management and organisational skills; Interpersonal skills in order to work effectively in small to large groups; computer literacy skills (specific modules prescribed); data management, analysis and interpretation skills; Information retrieval, management and critical synthesis skills."
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "heading": false,
+                      "data": [
+                        "If this information confirms that you would like to enrol for this qualification at the University of KwaZulu-Natal (UKZN), you need to contact UKZN for further details."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": "Option 2: National Career Advice Portal:",
+                  "data": [
+                    "You can also search for qualifications and universities on the National Career Advice Portal: http://ncap.careerhelp.org.za/. The NCAP is an on-line source of information on careers developed by the Department of Higher Education and Training (DHET) to assist users to make informed decisions about learning and career choices. The website enables you to search for qualifications under ‘What to study’ (http://ncap.careerhelp.org.za/qualifications) and for institutions under ‘Where to study’ (http://ncap.careerhelp.org.za/learningproviders). It lists public higher education providers and public FET colleges (i.e. TVET colleges), but not private institutions."
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": "Option 3: University and other websites",
+                  "data": [
+                    "You can also search for qualifications directly on the websites of universities. Another useful resource is http://www.smartstudent.co.za/university/. It provides guidelines for selecting a university programme and other information for students planning to enter university."
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "Which occupation-directed programmes are offered by higher education institutions?",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "p",
+                  "heading": false,
+                  "data": [
+                    "There are many specialised institutions that offer programmes for specific occupations in fields such as agriculture, nursing, policing and teaching. In addition, universities and universities of technology also offer qualifications for these occupations."
+                  ]
+                },
+                {
+                  "tag": "image",
+                  "heading": false,
+                  "data": [
+                    "Agricultural colleges: There are specialised agricultural colleges in all the provinces, except for Gauteng and the Northern Cape. The qualifications offered by these colleges, with their contact details, are provided in the table below.",
+                    "base64 image string"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": false,
+                  "data": [
+                    "More details on these colleges are available on: http://www.careerhelp.org.za/page/education-training/fet/agricultural-colleges/1642217-Agricultural-Colleges."
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "heading": "Most agricultural colleges also offer short courses to develop theoretical knowledge and practical skills in areas relevant to agriculture in the region. Examples of some of the short sources offered by Cedara Agricultural College are:",
+                  "data": [
+                    "Agricultural Co-Operative Management,",
+                    "Hydroponics,",
+                    "Composting,",
+                    "Pig Production,",
+                    "Soil Classification,",
+                    "Basic Beef Production,",
+                    "Farm Record-Keeping,",
+                    "Tomato Processing, and",
+                    "Vegetable & Fruit Drying."
+                  ]
+                },
+                {
+                  "tag": "multi",
+                  "heading": "Specialised programmes in nursing",
+                  "data": [
+                    {
+                      "tag": "p",
+                      "heading": false,
+                      "data": [
+                        "The South African Nursing Council (SANC) has the responsibility to oversee the quality of education and training in nursing and to accredit all institutions offering such training. This ensures that learners receive training that meets all the requirements for registration as a practitioner in South Africa.",
+                        "The SANC website provides lists of all accredited public and private nursing education institutions per province: http://www.sanc.co.za/neis.htm."
+                      ]
+                    },
+                    {
+                      "tag": "ul",
+                      "heading": "Qualifications in nursing are offered by most public universities, many universities of technology and private institutions, such as Netcare. The following list indicates the range of qualifications offered:",
+                      "data": [
+                        "Bridging Diploma in Nursing (two or three-year programme, Level 5),",
+                        "Higher Certificate in Nursing (one-year programme, Level 5),",
+                        "Diploma in Nursing (programmes ranging from three to four years, Level 6),",
+                        "Further National Higher Diploma: Nursing (two-year programme, Level 6),",
+                        "Advanced Diploma in specialist areas of nursing (e.g. critical care or operating theatre nursing) (one-year programme, Level 7),",
+                        "Bachelor’s Degree in Nursing and Midwifery (four-year programme, Level 8),",
+                        "Bachelor of Nursing Honours (one-year programme, Level 8), and",
+                        "Masters and Doctoral degrees are also offered in nursing."
+                      ]
+                    },
+                    {
+                      "tag": "ul",
+                      "heading": "Qualifications on lower NQF levels are also offered for students with or without a matric who need to complete basic training in order to enter a career in nursing. Some examples are:",
+                      "data": [
+                        "National Certificate (Vocational): Primary Health (one-year programme, Level 2),",
+                        "National Certificate: Auxiliary Nursing (one-year programme, Level 3), and",
+                        "Further Education and Training Certificate: Nursing (one-year programme, Level 4)."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "multi",
+                  "heading": "Specialised programmes in policing",
+                  "data": [
+                    {
+                      "tag": "p",
+                      "heading": false,
+                      "data": [
+                        "The first police university in South Africa was opened on 30 January 2014 in Paarl in the Western Cape. The university will offer a Bachelor Police Science Degree as well as accredited leadership and management programmes which will be tailored to suit the developing needs of the police. The programmes are offered in partnership between the South African Police Service (SAPS) and the University of South African (UNISA). More information is provided on: http://www.saps.gov.za/paarl/index.php."
+                      ]
+                    },
+                    {
+                      "tag": "image",
+                      "heading": false,
+                      "data": [
+                        "Many public universities and private higher education institutions offer qualifications in policing, as indicated in examples in the table below taken from the website of the South African Qualifications Authority (SAQA).",
+                        "base64 image string"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "multi",
+                  "heading": "Specialised programmes in teaching",
+                  "data": [
+                    {
+                      "tag": "p",
+                      "heading": false,
+                      "data": [
+                        "The Department of Basic Education (DBE) stated in its 2011-2025 Strategic Planning Framework for Teacher Education and Development that there are 21 higher education institutions offering initial teacher education programmes. However, the Department confirmed that there is still a shortage of new teachers entering the profession."
+                      ]
+                    },
+                    {
+                      "tag": "ul",
+                      "heading": "Almost all public universities, some universities of technology, and some private institutions offer qualifications in education. These qualifications range from Level 5 to Level 10, and include:",
+                      "data": [
+                        "Certificate in education (one-year programme, Level 5),",
+                        "Advanced Certificate in Education (one-year programme, Level 6),",
+                        "Diploma: Specialised Education : Remedial Education (one-year programme, Level 7),",
+                        "Advanced Diploma in Education in Special Needs Education (one-year programme, Level 7),",
+                        "Higher Diploma (four-year programme, Level 7),",
+                        "Bachelor of Education (three-year programme, Level 7),",
+                        "Bachelor of Education Honours (three-year programme, Level 8),",
+                        "Post-Graduate Certificate: Education (one-year programme, Level 7),",
+                        "Post-graduate Diploma (one-year programme, Level 58), and",
+                        "Masters (Level 9) and Doctoral degrees in Education (Level 10)."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "What mechanisms ensure the quality of university programmes?",
+              "data_heading": "There are numerous internal and external mechanisms for the quality assurance of higher education institutions, the programmes they offer and the qualifications they issue.",
+              "tag": "ul",
+              "data": [
+                "External mechanisms: The Department of Higher Education and Training (DHET) has the mandate to ensure the quality of higher education institutions. The Higher Education Quality Committee (HEQC) of the Council on Higher Education (CHE) has overall responsibility for ensuring the quality of teaching and learning. The South African Qualifications Authority (SAQA) has procedures for quality assuring the qualifications that are registered on the National Qualifications Framework (NQF). Many South African universities are also members of international bodies that require them to meet strict quality criteria, e.g. the European Foundation for Management Development (EFMD).",
+                "Internal mechanisms: All universities have units responsible for quality assurance of learning and teaching, and they establish and enforce processes and procedures to ensure quality."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Public Universities",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "There are 26 public (i.e. state-funded) higher education institutions in South Africa and more than 90 (in 2015) registered private higher education institutions."
+              ]
+            },
+            {
+              "content_heading": "Which are the public universities in South Africa?",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "p",
+                  "heading": false,
+                  "data": [
+                    "The public institutions are divided into three types: 14 traditional universities (which mainly offer theoretically-oriented university degrees), six comprehensive universities (which offer academic and vocational certificates, diplomas and degrees) and six universities of technology (which offer vocationally-oriented diplomas and degrees). The 20 public universities include two new ones that were established in August 2013 in the Northern Cape and Mpumalanga, and the Sefako Makgatho Health Sciences University (SMU) that was launched in Gauteng in April 2015. (Note: Universities of technology are described in a separate section on the website.)",
+                    "View the universities of technology (http://www.bridge.org.za/knowledge-hub/psam/he/universities-of-technology/)"
+                  ]
+                },
+                {
+                  "tag": "image",
+                  "heading": false,
+                  "data": [
+                    "Note: **Indicates the six comprehensive universities that offer a combination of academic and vocational diplomas and degrees.",
+                    "base64 image string"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Funding University Studies",
+          "contents": [
+            {
+              "content_heading": "How much does it cost to study at university and where can I get money to pay for my studies?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The fees for university study differ widely, and are determined mainly by the type of programme and the delivery mode. For example, distance learning is generally less expensive than full time attendance. You therefore need to contact the institution where you plan to study to determine the fee for the specific programme you want to enrol for.",
+                "Here are two examples to give you an idea of university fees in 2015: UNISA (for distance learning): http://www.unisa.ac.za/Default.asp?Cmd=ViewContent&ContentID=24095 and Nelson Mandela Metropolitan University: https://www.nmmu.ac.za/Apply/Financial-information/General-Financial-information"
+              ]
+            },
+            {
+              "content_heading": "SOURCES OF FUNDING FOR POST-SCHOOL STUDIES",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Bursaries/Scholarships: Many private companies and government departments offer bursaries or scholarships to cover all or part of your studies. There are generally conditions attached to the bursaries, e.g. awarding the bursary for a specific area of study (e.g. mechanical engineering) or to a specific group (e.g. black women). There could also be ‘work-back’ conditions requiring recipients to work for the company for a period after graduating, and conditions relating to the required level of achievement.",
+                "Government funding through the NSFAS: The government established the National Student Financial Aid Scheme (NSFAS) specifically to assist students with academic ability from poor disadvantaged families. NSFAS provides loans and bursaries to students attending public universities and public Technical and Vocational Education and Training (TVET) colleges. Loans must be repaid to NSFAS after completion of the studies, but some loans may be converted into bursaries that do not have to be repaid. (http://www.nsfas.org.za)",
+                "Loans from financial institutions: You could apply to banks and other financial institutions for student loans. You could also apply to Eduloan, a private company that works closely with the banks. Eduloan offers funding for tuition and other costs associated with studying at a university or other training institution. (http://www.eduloan.co.za/loan/am-a-student)",
+                "Grants from SETAs: The Sector Education and Training Authorities (SETAs) make grants available for a variety of education and training priorities. The grants are generally paid to the employers who should apply for the grants from the SETA. The grants are available for the training of employees and for unemployed persons whose studies are funded by an employer. For example, FASSET, the SETA for financial, accounting and related services has a NSFAS Loan Repayment Grant (NLRG) to assist students to repay their NSFAS loans.",
+                "Private funds: If you are unable to access funding through any of the above-mentioned ways, you will need to fund your own studies. You may need to work part-time to fund your own studies, for example through tutoring school pupils or first-year students, working as a waiter or doing other part-time work. If you are fortunate, your parents or family members will be able to assist in paying for your studies.",
+                "Free training: There are many institutions that offer free training, especially via the internet. You might be able to access free training for part of your qualification, or to assist you to meet the admission requirements for the qualification that you want to enrol for."
+              ]
+            },
+            {
+              "content_heading": "Additional information on bursaries and study loans",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The South African Qualifications Authority (SAQA) has a comprehensive Bursaries and study loans information pack, http://www.saqa.org.za/docs/misc/2014/Bursary_Pack_27_February_2014.pdf. It provides detailed information on different types and sources of funding for post-school studies, the conditions, requirements and study fields funded, as well as where and how to apply. It includes a comprehensive list of bursaries available from private companies, with details on applications.",
+                "The Careers Portal (http://www.careersportal.co.za/bursaries.html) provides information on bursaries, scholarships, student loans and other opportunities available to fund university and other studies, together with the fields of study funded, requirements and details on how to apply.",
+                "Other institutions offer bursaries for specific study fields, for example, the South African Institute of Electrical Engineers provides information under ‘Bursaries and scholarships’ on its website: http://www.saiee.org.za/DirectoryDisplay/DirectoryCMSPages.aspx?name=Education%20and%20Training"
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Private Higher Education Institutions",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "In addition to the 26 public institutions, there are many private higher education institutions. These institutions play an important role in meeting the demand for post-school learning opportunities, particularly in areas that are not addressed by public universities."
+              ]
+            },
+            {
+              "content_heading": "Which qualifications are offered by private higher education institutions?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Private higher education institutions offer a diverse range of programmes in specialised fields such as advertising, design, fashion, film and television, in addition to areas such as business, management and information technology that are also offered by public universities. Private institutions are also involved in the training of teachers and pastors/ministers of various religious denominations, as well as training people with disabilities who have special educational needs."
+              ]
+            },
+            {
+              "content_heading": "How do I choose a reputable private higher education institution?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The Higher Education Act of 1997 requires private higher education institutions to be registered with the Department of Higher Education and Training (DHET) and their programmes must be accredited by the Council on Higher Education (CHE). The DHET regularly updates the list of registered and accredited private higher education institutions that includes the name of the institution, site of delivery, province and all the qualifications offered.",
+                "Before selecting a private provider, check that they are on the latest DHET list and that the qualification you want to enrol for is included in the list. It is also useful to find additional information such as how long the institution has been in business and whether it has received negative publicity. If possible, speak to someone who recently completed the qualification you want to enrol for at the institution to find out about the quality of delivery and whether the qualification was valued by employers.",
+                "The Department of Higher Education provides a list of all accredited private higher education institutions on its website. Click on www.dhet.gov.za/SitePages/DocRegisters.aspx and select the “Register of Private Higher Education Institutions”."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

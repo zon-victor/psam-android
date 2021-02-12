@@ -1,0 +1,764 @@
+{
+  "version": {
+    "major": "20180110",
+    "minor": "01"
+  },
+  "topic": "Technical and Vocational Education and Training",
+  "description": "describing the qualifications and other learning programmes offered by public TVET and private colleges",
+  "sections": [
+    {
+      "section_heading": "WHAT IS TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING AND WHAT IS THE ROLE OF TVET COLLEGES?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The term ‘Technical and Vocational Education and Training’ refers to the vocational or occupational nature of programmes offered, meaning that it prepares learners for a specific job, a number of employment possibilities, or for self-employment. TVET colleges mainly train young people to develop the skills, knowledge and attitudes that are needed in the labour market. They serve young people who want to enrol for vocational programmes after Grade 9 or after finishing school with a Grade 12, as well as learners who want to complete their schooling."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "What are the benefits of studying at TVET colleges?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "ul",
+              "data": [
+                "TVET colleges develop practical and other skills for a wide variety of jobs. The colleges maintain close links with key role players in industry and commerce to ensure that their courses are responsive to labour market needs.",
+                "The entrepreneurship skills acquired at TVET colleges can be used to start businesses, e.g. in catering, building construction, Information Technology, tourism, or hairdressing.",
+                "TVET colleges are accessible to all young people, and especially to youth from previously disadvantaged communities who live in poor rural areas.",
+                "TVET colleges are rooted in their communities and provide education and training to members of their own and nearby communities.",
+                "The colleges develop the skills that are needed in local businesses and in government departments. People with a college qualification generally earn about 60% more than those with only a matric.",
+                "Studies conducted in South Africa found that individuals who have completed some level of further study after leaving school are between two and three times more likely to be employed. This means that having a TVET qualification can nearly double your chances of finding employment compared to a matric certificate.",
+                "Public TVET colleges try to arrange for students to gain practical work experience with employers in their fields of study.",
+                "The fees for studying at TVET colleges are low compared to fees for other post-school education.",
+                "The government provides funding to cover part or all of the study fees of learners who cannot afford to pay for further education.",
+                "Courses offered at public TVET colleges are externally and independently quality assured, and in addition, a number of public TVET colleges are also SABS ISO 9001:2008 certified.",
+                "In an increasingly globalised labour market, a number of public TVET colleges have international partnerships with similar institutions in various parts of the world. This ensures that education and training is internationally benchmarked against best practices in diverse international settings."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Who can study at TVET colleges and what learning opportunities are available?",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "TVET colleges cater for a wide variety of people who want to study career-focused vocational programmes. The only age restriction is that the person should be 16 years or older. TVET colleges are open to the following people:",
+              "tag": "ul",
+              "data": [
+                "Students who have completed Grade 12;",
+                "Persons who left school before completing Grade 12 and those who failed matric could, for example, complete a National Certificate (Vocational) on Level 4, which is equivalent to Grade 12; and",
+                "Adults who wish to enrol for formal study in study fields offered by TVET colleges."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Learning opportunities available at TVET colleges",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "There are thousands of learning opportunities at TVET colleges in a wide variety of study fields. In January 2015 the Minister of Higher Education and Training announced that there were approximately 425 095 opportunities available for school leavers, of which the following were available in TVET colleges:",
+              "tag": "ul",
+              "data": [
+                "44 000 opportunities in engineering and business studies,",
+                "37 000 opportunities for enrolling in National Certificate (Vocational) programmes,",
+                "85 900 opportunities for occupationally-directed programmes (apprenticeships or learnerships), and",
+                "16 250 opportunities for those who want to become an artisan in a trade."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "What do the terms learnership, apprenticeship, artisan and trade mean?",
+          "contents": [
+            {
+              "content_heading": "learnership",
+              "data_heading": "A learnership is a structured learning programme that combines theoretical learning provided by a training institution (e.g. a TVET college) with practical work experience gained while working with an employer. Learners who meet all the requirements for theoretical and practical learning are awarded a registered qualification. Learners do not pay anything to participate in a learnership and receive an allowance (or stipend) to cover the costs of transport, meals, etc. for attending the training and work experience sessions. A Learnership Agreement must be signed by the three main parties involved in its implementation:",
+              "tag": "ul",
+              "data": [
+                "The training institution,",
+                "The employer, and",
+                "The learner."
+              ]
+            },
+            {
+              "content_heading": "Apprenticeship",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "An apprenticeship is a work-based route to a qualification for learners who are interested in working in a practical, technical field, so that they can become qualified artisans. An apprenticeship is similar to a learnership, except that it is always focused on a trade. Apprentices attend formal instruction sessions at a TVET college or other training institution to learn the theory and practical hand skills, and also spend some time in a workplace working under the guidance of a skilled, qualified artisan to become proficient in the trade.",
+                "After completion of the programme the apprentices who are ready can apply to do a trade test at an accredited trade test centre. If they are successful, they are certified as an artisan, e.g. as a cabinet maker, diamond cutter, goldsmith, hairdresser, tailor, toolmaker or upholsterer.",
+                "Learners earn while they learn as they are paid for the time they spend working with an employer during the apprenticeship. Artisans are in high demand in South Africa as many trades are listed as ‘scarce skills’. Apprenticeships equip learners with skills that enable them to find employment or to run their own businesses."
+              ]
+            },
+            {
+              "content_heading": "Artisan",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Artisans are workers who are qualified to practice a trade in which they apply highly developed manual skills using their hands and technical equipment. Artisans are in high demand in South Africa and globally and many trades are listed as ‘scarce skills’. Therefore, qualified artisans find employment very easily or they can use their skills to start and run their own business."
+              ]
+            },
+            {
+              "content_heading": "Trade",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "This refers to an occupation for which an artisan qualification and relevant trade test is required. All trades are listed by the National Artisan Moderation Body (NAMB), the body responsible for moderating trade tests. Examples of listed trades are cabinet maker, chef, diamond cutter, diesel mechanic, electrician, goldsmith, hairdresser, millwright, refrigeration mechanic, tailor, toolmaker, upholsterer and welder. The list of trades is published by the Department of Higher Education and Training (DHET) in Government Gazette 35625 of 31 August 2012: http://www.gov.za/sites/www.gov.za/files/35625_gon691.pdf. It lists the occupations for which artisan qualifications are required."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isections": [
+    {
+      "section_heading": " Programmes offered by TVET Colleges",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "TVET colleges offer different types of career-focused vocational programmes designed specifically to prepare young people to enter the labour market or to become entrepreneurs who start and run their own businesses. Once people become active in the labour market, a range of other career opportunities open up. Many careers will require college graduates to complete additional qualifications. Some public TVET colleges offer up to 300 different courses."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Which qualifications and programmes are offered at public TVET colleges?",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Programmes are offered in many fields, such as agriculture, arts and culture, business, building construction, commerce and management, education and training, engineering, manufacturing, technology, security and services. The courses vary in duration from short courses of a few hours to formal diploma courses of three years. Most courses require full-time attendance of classes, although some courses are offered via distance learning or through blended learning that combines attendance, electronic delivery and self-study.",
+                "The colleges mainly offer courses on Levels 1 to 4 on the National Qualifications Framework (NQF), although some colleges offer Higher Certificates on Level 5 with 120 credits."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "The two main courses offered by TVET colleges are:",
+              "tag": "ul",
+              "data": [
+                "National Certificate (Vocational) qualifications, the NC (V), and",
+                "National Accredited Technical Education Diploma (NATED) programmes, also referred to as “Report 191” programmes."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "TVET colleges offer the following additional qualifications and programmes:",
+              "tag": "ul",
+              "data": [
+                "Selected UNISA and other qualifications registered on the NQF,",
+                "Occupational work-integrated programmes: learnerships and apprenticeships, as well as trade tests,",
+                "Skills programmes and non-formal short courses, and",
+                "National Senior Certificate for learners who want to complete their school education."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The above-mentioned qualifications and programmes are described in separate sections below."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "NQF Level",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "image",
+              "data": [
+                "SAQA registers qualifications in a prescribed format on the National Qualifications Framework (NQF) against a Level that indicates the level of complexity of learning. The articulation of qualifications across the NQF enables learners to progress through the ten NQF levels in individual learning pathways. The levels of qualifications are indicated in the table below.",
+                "base64 string"
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "The National Qualifications Framework (NQF)",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The NQF is an integrated national framework that was established in 1995 to bring all education and training in South Africa together into one unified outcomes-based system. All qualifications and unit standards are registered on a particular level on the NQF. The South African Qualifications Authority (SAQA) oversees the NQF and has established a comprehensive quality system to ensure the quality and relevance of qualifications. This gives the assurance that qualifications registered on the NQF enjoy national and international recognition."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "The objectives of the NQF are to:",
+              "tag": "ul",
+              "data": [
+                "Create an integrated national framework for learning achievements;",
+                "Enhance the quality of education and training;",
+                "Facilitate access to, and mobility and progression within, education, training and career paths;",
+                "Accelerate the redress of past unfair discrimination in education, training and employment opportunities; and",
+                "Contribute to the full personal development of each learner and the social and economic development of the nation at large."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "A unit standard is the smallest building block of the National Qualifications Framework (NQF), and together with qualifications, they constitute the basic structure of the NQF. Each unit standard is registered on the NQF with its title, Level, number of credits and a unique ID number. An example of a unit standard is “Develop a business plan for a small business”. It is on NQF Level 4, has 5 credits and the SAQA ID is 117241. Unit standards are used by training providers to develop learning programmes that are aligned to the NQF. Learners who complete such a programme will receive the credits for the unit standard(s) to which the programme is aligned."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "QUALIFICATIONS ON THE NATIONAL QUALIFICATIONS FRAMEWORK",
+              "tag": "image",
+              "data": [
+                "The table below depicts the types of qualifications on the different levels of the NQF.",
+                "base64 string"
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Source: Post-school education: Broadening alternative pathways from school to work, by Nicola Branson, et al. (Published in South African Child Gauge, 2015)"
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Abbreviations",
+              "tag": "p",
+              "data": [
+                "ABET – Adult Basic Education and Training (Now AET)",
+                "FET – Further Educational and Training",
+                "GET – General Educational and Training",
+                "HET – Higher Education and Training",
+                "NATED – National Accredited Technical Education Diploma",
+                "NC (V) – National Certificate (Vocational)",
+                "NSC – National Senior Certificate",
+                "OC – Occupational Certificate",
+                "TVET – Technical and Vocational Education and Training"
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Credits",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Each qualification specifies the minimum number of credits that must be achieved to be awarded the qualification, with 1 credit being equal to 10 notional hours of learning. For example, a Diploma requires a minimum of 240 credits which means that students will need to complete approximately 2400 notional hours of learning to achieve all the outcomes of the qualification. Notional hours are an estimation of all the time that it would take an average learner to meet the outcomes, recognising that some learners could achieve the outcomes in less time than others. The calculation of notional hours includes contact time (i.e. time spent in structured learning in the ‘classroom’), learning activities in the workplace (where relevant), self-study, as well as the preparation for and completion of assignments."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": " National Certificate offered by TVET colleges",
+          "contents": [
+            {
+              "content_heading": "National Certificate (Vocational) programmes offered by TVET colleges",
+              "data_heading": "",
+              "tag": "image",
+              "data": [
+                "Description of the NC (V) programmes offered by TVET colleges",
+                "image"
+              ]
+            },
+            {
+              "content_heading": "Examples of NC (V) on three NQF levels",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["link"]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Other courses offered by TVET colleges",
+          "contents": [
+            {
+              "content_heading": "National Accredited Technical Education Diploma (NATED) courses offered by TVET colleges",
+              "data_heading": "",
+              "tag": "image",
+              "data": [
+                "A description of NATED courses and examples of NATED programmes",
+                "base64 string"
+              ]
+            },
+            {
+              "content_heading": "Examples of three NATED programmes",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["base64 string"]
+            },
+            {
+              "content_heading": "NATED programmes registered as part-qualifications",
+              "data_heading": "",
+              "tag": "image",
+              "data": [
+                "The NATED or ‘N’ programmes are now registered on the NQF as part-qualifications on the SAQA website under “Registered qualifications and unit standards”: http://regqs.saqa.org.za/. The table below provides three examples of the ‘N’ programmes registered as part-qualifications.",
+                "base64 string"
+              ]
+            },
+            {
+              "content_heading": "What are the entry requirements into universities of technology for students with NC (V) or NATED qualifications?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "view the answer (http://www.bridge.org.za/knowledge-hub/psam/he/#item-3)"
+              ]
+            },
+            {
+              "content_heading": "Which UNISA and other qualifications are offered by TVET colleges?",
+              "data_heading": "UNISA qualifications offered by TVET colleges",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "p",
+                  "heading": false,
+                  "data": [
+                    "Twelve TVET colleges signed an agreement with the University of South Africa (UNISA) in 2012 to offer Higher Certificates in four areas: Accounting Sciences, Banking, Economic and Management Sciences and Tourism Management on NQF Level 5, and the Bachelor of Education in Early Childhood Development: Foundation Phase on NQF Level 7. This partnership was supported by the Department of Higher Education and Training (DHET) as a move to expand the programme offerings at TVET colleges and to make further learning opportunities accessible to students who would otherwise have been denied access to higher education."
+                  ]
+                },
+                {
+                  "tag": "image",
+                  "heading": false,
+                  "data": [
+                    "The following colleges were granted provisional approval by DHET to provide certain higher education qualifications.",
+                    "base64 string"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": "Other qualifications offered by TVET colleges",
+                  "data": [
+                    "Some colleges offer qualifications that are registered on the National Qualifications Framework other than the NC (V) and NATED Diploma, for example: National Certificate in Payroll Administration Services Level 4, National Certificate in Craft Production Level 2, National Certificate in Enterprise Management Level 4 and National Certificate in Early Childhood Development Level 1."
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "How are TVET colleges involved in learnerships, apprenticeships and trade tests?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Click here (http://www.bridge.org.za/knowledge-hub/psam/wiol/) for information on learnerships and apprenticeships offered by TVET colleges, as well as trade tests conducted by colleges that are accredited as ‘Decentralised Trade Test Centres’."
+              ]
+            },
+            {
+              "content_heading": "Skills programmes and short courses offered by TVET colleges",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "TVET colleges offer a wide variety of skills programmes on a full- or part-time basis, for example in Meeting Procedures, Receptionist and Telephone Skills, Welding, Upholstery, Labour Relations and various computer courses. Skills programmes are formally assessed and students will be able to gain credits towards registered qualifications for most of these programmes.",
+                "TVET colleges also offer short enrichment programmes that address specific needs in industry or in the community. They are generally not formally assessed so students only receive certificates of attendance for such courses. Examples are Bricklaying and Plastering, Pottery, Tourist guiding, Childcare, Welding, Tractor maintenance, Removal of alien vegetation and Afro hairdressing.",
+                "Click here (http://www.bridge.org.za/knowledge-hub/psam/wiol/occupation-focused-programmes/) for more detailed information on Skills Programmes."
+              ]
+            },
+            {
+              "content_heading": "Programmes in entrepreneurship offered by TVET colleges and other organisations",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The section on the NATED programmes indicated that entrepreneurship is covered in some of these programmes offered by TVET colleges. Most of the skills you develop through NATED and other TVET programmes will enable you to start and run your own business. You should not only see these studies as a way to get a job; use the skills to create your own job, and to employ others to work with you.",
+                "Click here for more information on the wide range of formal and informal programmes on entrepreneurship that are available for free or at minimal cost. Many of them are available on the internet and others are provided by Non-Profit Organisations (NPOs), government agencies and private organisations."
+              ]
+            },
+            {
+              "content_heading": "National Senior Certificate (NSC) offered to adults at TVET colleges",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Some colleges also offer Adult Education and Training (AET) programmes for persons wishing to achieve a National Senior Certificate, or to facilitate access to TVET courses. These are usually delivered in partnership with Adult Learning Centres, which are being replaced by Community Colleges. Click here for more information on Adult Education and Training and Community Colleges."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Recognition of Prior learning",
+      "subsections": [
+        {
+          "subsection_heading": "recognition of prior learning",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Recognition of Prior Learning refers to the processes through which the knowledge and skills a person acquired previously are measured and assessed for the purpose of formally recognising such achievements. The prior learning would be assessed against one or more unit standards, or components of a part-qualification or qualification. The knowledge and skills could have been acquired through formal training, work experience, social activities or general life experience."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "What is Recognition of Prior Learning (RPL) and how can I benefit from it?",
+          "contents": [
+            {
+              "content_heading": "The purpose and forms of RPL",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "RPL is a valuable mechanism for recognising the skills acquired by persons who were denied opportunities for formal education by the Apartheid system and opening access for them into further learning and career advancement."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "People could request formal recognition for previous learning achievements for a variety of reasons, including:",
+              "tag": "ul",
+              "data": [
+                "Gaining access into a formal learning programme;",
+                "The award of credits for learning achievements;",
+                "The award of a qualification for learning achievements; and/or",
+                "Serving as a basis for further learning and development."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "There are two main forms of RPL which reflect these different purposes.",
+              "tag": "ul",
+              "data": [
+                "RPL for access: RPL can provide an alternative access route into a programme of learning for those who do not meet the formal entry requirements. Applicants would submit evidence that they have sufficient prior learning to enable them to enter the programme. For example, a cook with no formal cookery qualification but many years’ experience working as a cook should be able to enter a relatively advanced cookery programme without having to first complete an elementary cookery qualification. In this case, the cook would not be awarded any credits for prior learning.",
+                "RPL for credits: Credits can be awarded for a unit standard or unit standards, or towards a qualification or part-qualification registered on the NQF. For example, the same cook mentioned above, may be registered for a cookery qualification, and would apply for RPL for credits for some of the unit standards in that qualification. The previous learning would then be assessed and the cook would receive credits for those unit standards. The cook would then not have to complete the sections of the programme that cover those unit standards."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "The RPL process",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The RPL process provides the opportunity for persons to provide evidence of their knowledge and skills in some way so that they can be formally recognised. The evidence can be in many forms, for example it could be documents, photographs, practical demonstration of skills, or testimonials from persons who are in a position to confirm the achievements, such as a supervisor."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "RPL must be conducted through a structured process that includes:",
+              "tag": "ul",
+              "data": [
+                "An applicant identifies the registered unit standard/s, part-qualification or qualification for which recognition will be sought and collects and compiles evidence of competence acquired against these.",
+                "The applicant submits the evidence to a training provider (e.g. a college or university) that offers a programme that covers the areas for which RPL is sought, or to an institution that provides RPL services.",
+                "The evidence of prior learning submitted by the candidate is measured against the outcomes (including knowledge, skills and other competencies) in the registered unit standards, modules, etc.",
+                "If the evidence is insufficient, the candidate receives guidance and counselling on further evidence that is required and collects or generates such evidence.",
+                "The evidence submitted is formally assessed to determine its validity, authenticity, currency and sufficiency against the outcomes in the registered unit standards, modules, etc.",
+                "If the evidence submitted meets all the applicable requirements, the credits are awarded for the unit standards, part-qualification or qualification."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "It is important to note that training providers, such as universities, are not legally obliged to award RPL. Most training providers have internal RPL policies that guide their decisions on awarding credits or qualifications."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": " TVET colleges",
+      "subsections": [
+        {
+          "subsection_heading": "Public TVET Colleges",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Public TVET colleges are funded from public money through the Department of Higher Education and Training (DHET). In 2015 there were 50 public TVET colleges with over 260 campuses across all nine provinces, in cities and even in small rural towns. The many campuses ensure that colleges are easily accessible to young people, which lowers the cost of transport and accommodation for students",
+                "The following lists of public TVET colleges include information on the location of campuses and contact details."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "LIST OF PUBLIC TVET COLLEGES",
+              "tag": "p",
+              "data": [
+                "Please note: Some of these details may have changed after this list was compiled."
+              ]
+            },
+            {
+              "content_heading": "Eastern Cape",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["base64 string"]
+            },
+            {
+              "content_heading": "Western Cape",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["base64 string"]
+            },
+            {
+              "content_heading": "Northern Cape",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["base64 string"]
+            },
+            {
+              "content_heading": "Gauteng",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["base64 string"]
+            },
+            {
+              "content_heading": "Limpopo",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["base64 string"]
+            },
+            {
+              "content_heading": "Kwazulu Natal",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["base64 string"]
+            },
+            {
+              "content_heading": "North West Province",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["base64 string"]
+            },
+            {
+              "content_heading": "Free State",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["www.motheofet.co.za", "base64 string"]
+            },
+            {
+              "content_heading": "Mpumalanga",
+              "data_heading": "",
+              "tag": "image",
+              "data": ["www.gscollege.co.za", "base64 string"]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Private TVET Colleges",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "PRIVATE COLLEGES IN THE TVET SECTOR",
+              "tag": "p",
+              "data": [
+                "There are many private colleges that offer similar courses to public TVET colleges. Here are guidelines on how to choose a reputable private college"
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "How do I choose a reputable private college?",
+              "tag": "p",
+              "data": [
+                "Before enrolling in a private college, it is important to make sure that it meets the legal requirements for private institutions and to determine whether the college provides quality programmes that are valued in the market place"
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Before you register or pay any fees, follow the steps below to avoid enrolling in a ‘fly-by-night’ institution that will not give value for money.",
+              "tag": "ul",
+              "data": [
+                "Check that the college is registered with the Department of Higher Education and Training (DHET) on the DHET list of registered private colleges in the TVET sector: www.dhet.gov.za/SitePages/DocRegisters.aspx. Private colleges must be registered with the DHET in terms of the Continuing Education and Training Act 16 of 2006 and the FET Colleges Amendment Act of 2013. The DHET regularly updates the Register of Registered Private Colleges that is available on its website. The register includes information on the registration status of private colleges, qualifications that they are approved to offer and their NQF Levels, as well as the contact details of the colleges. There is a danger that qualifications from unregistered colleges will not be recognised by DHET or employers. Don’t just believe the institution if it says that it is registered, check its registration status.",
+                "Check that the college is accredited by Umalusi by viewing the list on the Umalusi website http://www.umalusi-online.org.za/enquiries. The accreditation is closely linked to and dependent on the DHET registration. Accreditation is part of the quality assurance process that confirms the quality of the specific qualifications delivered by the private college.",
+                "It is also useful to find additional information such as how long the institution has been in business and whether it has received negative publicity. If possible, speak to someone who recently completed the qualification you want to enrol for at the institution to find out about the quality of delivery and whether the qualification was valued by employers.",
+                "If you still have questions, call the DHET TVET College Helpline on 0800 872 2222."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Applying to and studying at TVET colleges",
+          "contents": [
+            {
+              "content_heading": "How do I apply to a TVET college and where can I find more information on TVET colleges?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "You can apply directly to the TVET college of your choice through the contact details that are provided in the list of Public TVET colleges. If you plan to enrol at a private college, you can also do so directly through the contact details that are provided in the Department of Higher Education’s list of registered private colleges in the TVET sector: www.dhet.gov.za/SitePages/DocRegisters.aspx."
+              ]
+            },
+            {
+              "content_heading": "Where to find information on studying at TVET colleges",
+              "data_heading": "",
+              "tag": "multi",
+              "data": [
+                {
+                  "tag": "ul",
+                  "heading": "The Department of Higher Education and Training (DHET) is responsible for the TVET system, and provides a great deal of useful information.",
+                  "data": [
+                    "You can contact TVET colleges directly. Click here for a list of public TVET colleges, with their addresses and contact details.",
+                    "You can also find information on the official DHET website for TVET colleges: http://www.fetcolleges.co.za.",
+                    "The Khetha Career Development Services of the Department of Higher Education and Training provides a wide range of information and advice that learners can use in making career choices while still at school and during their post-school learning journey. The Career Development Services also has fully qualified Career Advisors for providing career information, guidance and advice. Some of the resources on this website are (http://www.careerhelp.org.za): TVET Basic Career Guide, KHETHA Post-School Career Guide, Information on Post-School Options and Careers, Making a Career Choice, Financing your studies, and Subject Choice to assist Grade 9 learners to make the right choices of subjects for Grade 10 that will enable them to pursue their chosen career path on completion of Grade 12."
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "heading": "You can contact the DHET’s Careerhelp through:",
+                  "data": [
+                    "Facebook at www.facebook.com/careerhelp,",
+                    "Twitter at www.twitter.com/sacareerhelp,",
+                    "Writing an e-mail to: careerhelp@dhet.gov.za and a Career Advisor will respond to the e-mail,",
+                    "Sending an SMS or “please call me” to 072 204 5056 with your question and one of the Career Advisors will call you back,",
+                    "Calling 0860 35 66 35 (Mon-Fri: 08:00-16:00) from any cell phone or landline, or",
+                    "Calling the DHET HELPLINE: 0800 872 2222."
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "heading": "",
+                  "data": [
+                    "The National Youth Development Agency (NYDA) centres (www.nyda.gov.za) and other student support centres can also assist."
+                  ]
+                }
+              ]
+            },
+            {
+              "content_heading": "What support is provided for students studying at TVET colleges?",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "Most TVET colleges have dedicated student support units that assist students with both their academic and broader social/psychological needs. They also provide career guidance to ensure that students are able to make appropriate learning and career decisions. Colleges also assist students to get bursaries or loans. Many colleges assist students to find workplaces for the practical components of their programmes and even to find jobs after completion of their studies.",
+                "New students may be required to complete a competency assessment during enrolment to assist the college to determine the most suitable learning and support programmes for prospective students."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_heading": "Funding TVET studies",
+      "subsections": [
+        {
+          "subsection_heading": "",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "HOW MUCH DOES IT COST TO STUDY AT A TVET COLLEGE?",
+              "tag": "p",
+              "data": [
+                "The fees for studying at a public TVET college are reasonable to ensure that they are affordable. The Department of Higher Education and Training subsidises 80% of the delivery costs and bursaries and loans are available to assist students to pay for tuition fees. In 2015 approximately 200 000 students at TVET Colleges will benefit from DHET bursaries administered by the National Student Financial Aid Scheme (NSFAS)."
+              ]
+            },
+            {
+              "content_heading": "Examples of fees charged for TVET courses",
+              "data_heading": "",
+              "tag": "image",
+              "data": [
+                "Please note that these fees may have changed after this table was compiled.",
+                "base64 string"
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Where can I get money to pay for my studies?",
+          "contents": [
+            {
+              "content_heading": "There are a number of ways to fund your studies.",
+              "data_heading": "Bursaries/Scholarships",
+              "tag": "p",
+              "data": [
+                "Many private companies and government departments offer bursaries or scholarships to cover all or part of your studies. There are generally conditions attached to the bursaries, e.g. awarding the bursary for a specific area of study (e.g. mechanical engineering) or to a specific group (e.g. black women). There could also be ‘work-back’ conditions requiring recipients to work for the company for a period after graduating, and conditions relating to the required level of achievement."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "DHET TVET Colleges Bursary Scheme (Administered by NSFAS)",
+              "tag": "p",
+              "data": [
+                "The government established the National Student Financial Aid Scheme (NSFAS) specifically to assist students with academic ability from low-income families. NSFAS provides loans and bursaries to students attending public universities and public Technical and Vocational Education and Training (TVET) colleges. Two criteria are applied in awarding bursaries: prospective students have to undergo a ‘means test’ to determine their need for financial assistance, and students must have a good academic record. Loans must be repaid to NSFAS after completion of the studies, but some loans may be converted into bursaries that do not have to be repaid. (http://www.nsfas.org.za/NSFAS/STUDENTS)"
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Bursaries available for specific TVET courses",
+              "tag": "p",
+              "data": [
+                "Most TVET colleges have information on bursaries that are available for courses they offer. Prospective students should enquire about bursaries at the colleges where they plan to enrol. Click here for an example of a Financial Aid brochure from the False Bay TVET College, with information on how to apply, who qualifies, what is covered by the NSFAS bursary, and other bursaries/loans: http://www.falsebaycollege.co.za/images/file-downloads/FBC_Financial_Aid_Brochure_Low_Res.pdf"
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Loans from financial institutions",
+              "tag": "p",
+              "data": [
+                "You could apply to banks and other financial institutions for student loans. You could also apply to Eduloan, a private company that works closely with the banks. Eduloan offers funding for tuition and other costs associated with studying at a university or other training institution. (http://www.eduloan.co.za/loan/am-a-student)"
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Grants from SETAs",
+              "tag": "p",
+              "data": [
+                "The Sector Education and Training Authorities (SETAs) make grants available for a variety of education and training priorities. The grants are generally paid to the employers who should apply for the grants from the SETA. The grants are available for the training of employees and for unemployed persons whose studies are funded by an employer. For example, FASSET, the SETA for financial, accounting and related services has a NSFAS Loan Repayment Grant (NLRG) to assist students to repay their NFSAS loans."
+              ]
+            },
+            {
+              "content_heading": "",
+              "data_heading": "Private funds",
+              "tag": "p",
+              "data": [
+                "If you are unable to access funding through any of the above-mentioned ways, you will need to fund your own studies. Hopefully, your parents or family members will be able to assist in paying for your studies."
+              ]
+            }
+          ]
+        },
+        {
+          "subsection_heading": "Where can I get more information on bursaries and study loans?",
+          "contents": [
+            {
+              "content_heading": "",
+              "data_heading": "",
+              "tag": "p",
+              "data": [
+                "The South African Qualifications Authority (SAQA) has a comprehensive Bursaries and study loans information pack, http://www.saqa.org.za/docs/misc/2014/Bursary_Pack_27_February_2014.pdf. It provides detailed information on different types and sources of funding for post-school studies, the conditions, requirements and study fields funded, as well as where and how to apply. It includes a comprehensive list of bursaries available from private companies, with details on applications.",
+                "The Careers Portal (http://www.careersportal.co.za/bursaries.html) provides information on bursaries, scholarships, student loans and other opportunities available to fund university and other studies, together with the fields of study funded, requirements and details on how to apply.",
+                "Other institutions offer bursaries for specific study fields, for example, the South African Institute of Electrical Engineers provides information under ‘Bursaries and scholarships’ on its website: http://www.saiee.org.za/DirectoryDisplay/DirectoryCMSPages.aspx?name=Education%20and%20Training."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

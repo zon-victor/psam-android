@@ -1,0 +1,30 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>KNOWLEDGEBASE</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card *ngFor="let topic of _.keys(topics)" class="topic">
+    <ion-card-header class="header" text-wrap>
+      <ion-item>
+          <div class="topic-header  {{topics[topic].id}}" (tap)="openTopic(topics[topic])" text-wrap>
+              {{topics[topic].title}}
+          </div>
+          <button ion-button icon-only item-end clear class="topic-options {{topics[topic].id}}-color" (click)="presentTopicOptions(topics[topic].title)">
+              <ion-icon name="more"></ion-icon>
+          </button>
+      </ion-item>
+    </ion-card-header>
+
+    <ion-card-content class="topic-intro-link">
+      <div class="topic-description">
+          {{topics[topic].description}}
+      </div>
+    </ion-card-content>
+
+  </ion-card>
+</ion-content>
